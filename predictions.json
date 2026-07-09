@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T06:16:56.674980+00:00",
+  "generated_at_utc": "2026-07-09T15:26:50.305825+00:00",
   "days": 45,
   "model_policy": "No current/closing odds used; latest no-market Poisson regression fitted on completed historical features.",
   "fixture_count": 33,
@@ -18,7 +18,10 @@
       "model_expected_away_goals": 0.8212810977059324,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.67,
+      "model_draw_decimal_odds": 4.33,
+      "model_away_decimal_odds": 5.85
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -34,7 +37,10 @@
       "model_expected_away_goals": 1.4914698940349345,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.62,
+      "model_draw_decimal_odds": 3.86,
+      "model_away_decimal_odds": 2.15
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -50,7 +56,10 @@
       "model_expected_away_goals": 1.3823101100373338,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.13,
+      "model_draw_decimal_odds": 3.78,
+      "model_away_decimal_odds": 2.4
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -66,7 +75,10 @@
       "model_expected_away_goals": 1.3481076877115823,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.0,
+      "model_draw_decimal_odds": 3.76,
+      "model_away_decimal_odds": 2.5
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -82,7 +94,10 @@
       "model_expected_away_goals": 1.1629645228171013,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 13,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.34,
+      "model_draw_decimal_odds": 3.8,
+      "model_away_decimal_odds": 3.23
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -98,7 +113,10 @@
       "model_expected_away_goals": 1.0604090182881518,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.05,
+      "model_draw_decimal_odds": 3.94,
+      "model_away_decimal_odds": 3.86
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -114,7 +132,10 @@
       "model_expected_away_goals": 1.1111852120741998,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.19,
+      "model_draw_decimal_odds": 3.86,
+      "model_away_decimal_odds": 3.51
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -130,7 +151,10 @@
       "model_expected_away_goals": 1.3589331673210063,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.04,
+      "model_draw_decimal_odds": 3.77,
+      "model_away_decimal_odds": 2.47
     },
     {
       "date": "2026-08-15T00:00:00",
@@ -146,7 +170,10 @@
       "model_expected_away_goals": 1.0946867920056116,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.15,
+      "model_draw_decimal_odds": 3.88,
+      "model_away_decimal_odds": 3.62
     },
     {
       "date": "2026-08-16T00:00:00",
@@ -162,7 +189,10 @@
       "model_expected_away_goals": 1.5984044065724943,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 4.18,
+      "model_draw_decimal_odds": 4.0,
+      "model_away_decimal_odds": 1.96
     },
     {
       "date": "2026-08-16T00:00:00",
@@ -178,7 +208,10 @@
       "model_expected_away_goals": 1.588242316957134,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.89,
+      "model_draw_decimal_odds": 3.99,
+      "model_away_decimal_odds": 2.03
     },
     {
       "date": "2026-08-17T00:00:00",
@@ -194,7 +227,10 @@
       "model_expected_away_goals": 1.3567744506341748,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.03,
+      "model_draw_decimal_odds": 3.77,
+      "model_away_decimal_odds": 2.47
     },
     {
       "date": "2026-08-21T00:00:00",
@@ -210,7 +246,10 @@
       "model_expected_away_goals": 0.7611207636242833,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.2,
+      "model_draw_decimal_odds": 9.3,
+      "model_away_decimal_odds": 17.0
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -226,7 +265,10 @@
       "model_expected_away_goals": 2.1373819239018084,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 8.16,
+      "model_draw_decimal_odds": 5.29,
+      "model_away_decimal_odds": 1.45
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -242,7 +284,10 @@
       "model_expected_away_goals": 1.1563094908213707,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.33,
+      "model_draw_decimal_odds": 3.81,
+      "model_away_decimal_odds": 3.25
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -258,7 +303,10 @@
       "model_expected_away_goals": 1.3570293481604214,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.03,
+      "model_draw_decimal_odds": 3.77,
+      "model_away_decimal_odds": 2.47
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -274,7 +322,10 @@
       "model_expected_away_goals": 0.9741761096512129,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.84,
+      "model_draw_decimal_odds": 4.16,
+      "model_away_decimal_odds": 4.62
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -290,7 +341,10 @@
       "model_expected_away_goals": 1.1700499132379076,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 13,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.35,
+      "model_draw_decimal_odds": 3.81,
+      "model_away_decimal_odds": 3.21
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -306,7 +360,10 @@
       "model_expected_away_goals": 1.0800598179107448,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.11,
+      "model_draw_decimal_odds": 3.9,
+      "model_away_decimal_odds": 3.72
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -322,7 +379,10 @@
       "model_expected_away_goals": 1.5788872529951465,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 4.05,
+      "model_draw_decimal_odds": 3.97,
+      "model_away_decimal_odds": 1.99
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -338,7 +398,10 @@
       "model_expected_away_goals": 0.8974488069567317,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.67,
+      "model_draw_decimal_odds": 4.46,
+      "model_away_decimal_odds": 5.6
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -354,7 +417,10 @@
       "model_expected_away_goals": 0.8399346351983061,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.56,
+      "model_draw_decimal_odds": 4.8,
+      "model_away_decimal_odds": 6.62
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -370,7 +436,10 @@
       "model_expected_away_goals": 1.170237364463486,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.37,
+      "model_draw_decimal_odds": 3.79,
+      "model_away_decimal_odds": 3.18
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -386,7 +455,10 @@
       "model_expected_away_goals": 1.4368119976865918,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.39,
+      "model_draw_decimal_odds": 3.81,
+      "model_away_decimal_odds": 2.26
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -402,7 +474,10 @@
       "model_expected_away_goals": 0.72662994051172,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.35,
+      "model_draw_decimal_odds": 6.13,
+      "model_away_decimal_odds": 10.44
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -418,7 +493,10 @@
       "model_expected_away_goals": 1.0145495602098316,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 9,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.94,
+      "model_draw_decimal_odds": 4.04,
+      "model_away_decimal_odds": 4.23
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -434,7 +512,10 @@
       "model_expected_away_goals": 1.233093153468805,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.37,
+      "model_draw_decimal_odds": 3.89,
+      "model_away_decimal_odds": 3.12
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -450,7 +531,10 @@
       "model_expected_away_goals": 1.3605753423570714,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 6,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.06,
+      "model_draw_decimal_odds": 3.76,
+      "model_away_decimal_odds": 2.46
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -466,7 +550,10 @@
       "model_expected_away_goals": 1.2243003876931315,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.28,
+      "model_draw_decimal_odds": 3.94,
+      "model_away_decimal_odds": 3.24
     },
     {
       "date": "2026-08-22T00:00:00",
@@ -482,7 +569,10 @@
       "model_expected_away_goals": 1.0995273527165472,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.98,
+      "model_draw_decimal_odds": 4.11,
+      "model_away_decimal_odds": 3.99
     },
     {
       "date": "2026-08-23T00:00:00",
@@ -498,7 +588,10 @@
       "model_expected_away_goals": 1.3334449771347678,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 2.8,
+      "model_draw_decimal_odds": 3.81,
+      "model_away_decimal_odds": 2.63
     },
     {
       "date": "2026-08-23T00:00:00",
@@ -514,7 +607,10 @@
       "model_expected_away_goals": 1.0894258667609562,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 1.74,
+      "model_draw_decimal_odds": 4.6,
+      "model_away_decimal_odds": 4.83
     },
     {
       "date": "2026-08-23T00:00:00",
@@ -530,7 +626,10 @@
       "model_expected_away_goals": 1.5130211298662917,
       "model_name": "latest_fit_poisson_regression_no_market_h20",
       "missing_no_market_feature_count": 0,
-      "uses_current_market_odds": false
+      "uses_current_market_odds": false,
+      "model_home_decimal_odds": 3.01,
+      "model_draw_decimal_odds": 4.0,
+      "model_away_decimal_odds": 2.39
     }
   ]
 }
