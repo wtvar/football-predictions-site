@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-07-20T11:58:48+00:00",
+  "projects": [
+    {
+      "id": "pl-model",
+      "title": "PL / Football Match Prediction Model",
+      "status": "LIVE OUTPUT",
+      "status_class": "ok",
+      "summary": "Match prediction model outputs plus lab status for experiments/research.",
+      "project_url": "projects/pl-model/index.html",
+      "output_url": "projects/pl-model/predictions.html",
+      "last_research": [
+        "1. `2026-07-20-league-gated-shot-sot-priors` \u2014 League-gated shot and SOT prior features",
+        "2. `2026-07-07-no-market-family-ablation-stability` \u2014 Season-block stability for no-market feature-family ablations",
+        "3. `2026-07-14-transfermarkt-injury-burden-priors` \u2014 Transfermarkt injury-history burden priors"
+      ],
+      "latest_experiments": [
+        "Previous-season anchor stability ablation built/evaluated locally",
+        "Glicko/anchor lower-league routing experiments produced gated candidates"
+      ]
+    },
+    {
+      "id": "sot-model",
+      "title": "Premier League SOT Value Model",
+      "status": "DATA NEEDED",
+      "status_class": "warn",
+      "summary": "Manual EV scanner plus research lab; currently building data-source and schema foundations.",
+      "project_url": "projects/sot-model/index.html",
+      "output_url": "projects/sot-model/output.html",
+      "last_research": [
+        "1. StatsBomb Open Data SOT ETL spike",
+        "2. Manual promotion/exchange snapshot schema hardening",
+        "3. SOT data-source feasibility audit"
+      ],
+      "latest_experiments": [
+        "Added Hermes project rules and lightweight autonomous lab workflow.",
+        "Initial autonomous emphasis is data/source research and feasibility, not claiming profitable selections.",
+        "Detailed outputs should stay local or on a future dashboard; Telegram should receive only concise summaries.",
+        "Reviewed StatsBomb Open Data, Football-Data.co.uk, and Understat-related tooling/datasets for player SOT value modelling fit.",
+        "Added `research/sources/2026-07-19-open-sot-data-scout.md` with provenance/terms caveats and concrete next actions."
+      ]
+    }
+  ]
+}
