@@ -25,7 +25,35 @@ projects/<project-id>/*.json
 
 4. Add an entry to `projects.json` so homepage cards/generators can discover it.
 
-5. Keep root `index.html` as the homepage, not a single project's output.
+5. Rebuild the homepage from the registry:
+
+```bash
+python scripts/render_home_from_projects.py
+```
+
+6. Keep root `index.html` as the homepage, not a single project's output.
+
+## Add a new page to an existing project
+
+Use the scaffold so the page is registered and linked from the homepage/project card:
+
+```bash
+python scripts/scaffold_site_page.py pl-model team-strength-comparison \
+  "Team strength comparison" \
+  "Comparison-only external team ratings and xG strengths" \
+  --kind comparison_only --status "COMPARISON ONLY"
+python scripts/render_home_from_projects.py
+```
+
+Then edit the generated HTML/JSON and add any generator script needed under `scripts/`.
+
+## Add a new external comparison source
+
+1. Start from `templates/comparison-source-template/README.md`.
+2. Cache raw payloads outside git under `/root/football-data-cache/...`.
+3. Publish only normalized summary artifacts in the site repo.
+4. Add the source to the relevant JSON `source_registry`.
+5. Run the homepage renderer if adding a new public page link.
 
 ## Guardrails
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-20T11:58:48+00:00",
+  "generated_at": "2026-08-09T09:55:36+00:00",
   "projects": [
     {
       "id": "pl-model",
       "title": "PL / Football Match Prediction Model",
       "status": "LIVE OUTPUT",
       "status_class": "ok",
-      "summary": "Match prediction model outputs plus lab status for experiments/research.",
+      "summary": "Fixture predictions, team ratings, and comparison-only external probabilities.",
       "project_url": "projects/pl-model/index.html",
       "output_url": "projects/pl-model/predictions.html",
       "last_research": [
@@ -17,6 +17,33 @@
       "latest_experiments": [
         "Previous-season anchor stability ablation built/evaluated locally",
         "Glicko/anchor lower-league routing experiments produced gated candidates"
+      ],
+      "pages": [
+        {
+          "label": "Predictions",
+          "url": "projects/pl-model/predictions.html",
+          "kind": "model_output"
+        },
+        {
+          "label": "Team ratings",
+          "url": "projects/pl-model/ratings.html",
+          "kind": "model_explanation"
+        },
+        {
+          "label": "Comparison",
+          "url": "projects/pl-model/comparison.html",
+          "kind": "comparison_only"
+        },
+        {
+          "label": "Team strength comparison",
+          "url": "projects/pl-model/team-strength-comparison.html",
+          "kind": "comparison_only"
+        },
+        {
+          "label": "Overview",
+          "url": "projects/pl-model/index.html",
+          "kind": "project_status"
+        }
       ]
     },
     {
@@ -38,6 +65,18 @@
         "Detailed outputs should stay local or on a future dashboard; Telegram should receive only concise summaries.",
         "Reviewed StatsBomb Open Data, Football-Data.co.uk, and Understat-related tooling/datasets for player SOT value modelling fit.",
         "Added `research/sources/2026-07-19-open-sot-data-scout.md` with provenance/terms caveats and concrete next actions."
+      ],
+      "pages": [
+        {
+          "label": "Status / research",
+          "url": "projects/sot-model/index.html",
+          "kind": "project_status"
+        },
+        {
+          "label": "Output placeholder",
+          "url": "projects/sot-model/output.html",
+          "kind": "placeholder"
+        }
       ]
     }
   ]
