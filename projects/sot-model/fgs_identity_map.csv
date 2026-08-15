@@ -1,0 +1,661 @@
+canonical_player_key,fplreview_id,fplreview_name,fplreview_team,fpl_position,statfootdb_player_id,statfootdb_player_name,match_method,match_score,identity_status,understat_player_id,understat_player_name,identity_source,allocation_source
+fplreview:1,1,Raya,ARS,GKP,562727.0,David Raya,surname_or_fuzzy_team,0.93,statfootdb_matched,9676.0,David Raya,statfootdb,understat_np_xg
+fplreview:4,4,Gabriel,ARS,DEF,795179.0,Gabriel,exact_name_team,1.0,statfootdb_matched,5613.0,Gabriel,statfootdb,understat_np_xg
+fplreview:11,11,Mosquera,ARS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10,10,White,ARS,DEF,776151.0,Ben White,surname_or_fuzzy_team,0.93,statfootdb_matched,7298.0,Ben White,statfootdb,understat_np_xg
+fplreview:15,15,Ødegaard,ARS,MID,534670.0,Martin Ødegaard,surname_or_fuzzy_team,0.93,statfootdb_matched,2517.0,Martin Odegaard,statfootdb,understat_np_xg
+fplreview:8,8,Calafiori,ARS,DEF,1105912.0,Riccardo Calafiori,surname_or_fuzzy_team,0.93,statfootdb_matched,8129.0,Riccardo Calafiori,statfootdb,understat_np_xg
+fplreview:557,557,Tzolis,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:26,26,Havertz,ARS,FWD,749736.0,Kai Havertz,surname_or_fuzzy_team,0.93,statfootdb_matched,5220.0,Kai Havertz,statfootdb,understat_np_xg
+fplreview:452,452,Bruno G.,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:7,7,Lewis-Skelly,ARS,MID,1406436.0,Myles Lewis-Skelly,surname_or_fuzzy_team,0.93,statfootdb_matched,12272.0,Myles Lewis-Skelly,statfootdb,understat_np_xg
+fplreview:12,12,Saka,ARS,MID,961995.0,Bukayo Saka,surname_or_fuzzy_team,0.93,statfootdb_matched,7322.0,Bukayo Saka,statfootdb,understat_np_xg
+fplreview:13,13,Rice,ARS,MID,654096.0,Declan Rice,surname_or_fuzzy_team,0.93,statfootdb_matched,5553.0,Declan Rice,statfootdb,understat_np_xg
+fplreview:20,20,Dowman,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:25,25,Gyökeres,ARS,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:9,9,Hincapie,ARS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:19,19,Zubimendi,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:18,18,Martinelli,ARS,MID,1021586.0,Gabriel Martinelli,surname_or_fuzzy_team,0.93,statfootdb_matched,7752.0,Gabriel Martinelli,statfootdb,understat_np_xg
+fplreview:14,14,Eze,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:16,16,Madueke,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:17,17,Merino,ARS,MID,574645.0,Mikel Merino,surname_or_fuzzy_team,0.93,statfootdb_matched,5304.0,Mikel Merino,statfootdb,understat_np_xg
+fplreview:5,5,J.Timber,ARS,DEF,942381.0,Jurrien Timber,surname_or_fuzzy_team,0.93,statfootdb_matched,11707.0,Jurriën Timber,statfootdb,understat_np_xg
+fplreview:22,22,Nwaneri,ARS,MID,1254234.0,Ethan Nwaneri,surname_or_fuzzy_team,0.93,statfootdb_matched,11132.0,Ethan Nwaneri,statfootdb,understat_np_xg
+fplreview:27,27,G.Jesus,ARS,FWD,576165.0,Gabriel Jesus,surname_or_fuzzy_team,0.93,statfootdb_matched,5543.0,Gabriel Jesus,statfootdb,understat_np_xg
+fplreview:2,2,Arrizabalaga,ARS,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:3,3,Meslier,ARS,GKP,,,,0.0,fplreview_only,,,,
+fplreview:6,6,Saliba,ARS,DEF,955406.0,William Saliba,surname_or_fuzzy_team,0.93,statfootdb_matched,6888.0,William Saliba,statfootdb,understat_np_xg
+fplreview:23,23,Fábio Vieira,ARS,MID,,,,0.0,fplreview_only,,,,
+fplreview:24,24,Nelson,ARS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10009,10009,Tommy Setford,ARS,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10010,10010,Marli Salmon,ARS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10092,10092,Louie Copley,ARS,MID,,,,0.0,fplreview_only,,,,
+fplreview:10093,10093,Demiane Agustien,ARS,MID,,,,0.0,fplreview_only,,,,
+fplreview:28,28,Martinez,AVL,GKP,268375.0,Emiliano Martinez,surname_or_fuzzy_team,0.93,statfootdb_matched,4401.0,Emiliano Martinez,statfootdb,understat_np_xg
+fplreview:31,31,Konsa,AVL,DEF,710159.0,Ezri Konsa,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:36,36,Maatsen,AVL,DEF,966026.0,Ian Maatsen,surname_or_fuzzy_team,0.93,statfootdb_matched,11807.0,Ian Maatsen,statfootdb,understat_np_xg
+fplreview:32,32,Cash,AVL,DEF,729731.0,Matty Cash,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:47,47,Kamara,AVL,MID,816325.0,Boubacar Kamara,surname_or_fuzzy_team,0.93,statfootdb_matched,5789.0,Boubacar Kamara,statfootdb,understat_np_xg
+fplreview:45,45,McGinn,AVL,MID,356406.0,John McGinn,surname_or_fuzzy_team,0.93,statfootdb_matched,7723.0,John McGinn,statfootdb,understat_np_xg
+fplreview:55,55,Watkins,AVL,FWD,540088.0,Ollie Watkins,surname_or_fuzzy_team,0.93,statfootdb_matched,8865.0,Ollie Watkins,statfootdb,understat_np_xg
+fplreview:160,160,Garnacho,AVL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:41,41,Buendía,AVL,MID,610184.0,Emiliano Buendia,surname_or_fuzzy_team,0.93,statfootdb_matched,2203.0,Emiliano Buendía,statfootdb,understat_np_xg
+fplreview:34,34,Pau,AVL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:46,46,Barkley,AVL,MID,215384.0,Ross Barkley,surname_or_fuzzy_team,0.93,statfootdb_matched,592.0,Ross Barkley,statfootdb,understat_np_xg
+fplreview:53,53,Manzambi,AVL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:33,33,Mings,AVL,DEF,419664.0,Tyrone Mings,surname_or_fuzzy_team,0.93,statfootdb_matched,1024.0,Tyrone Mings,statfootdb,understat_np_xg
+fplreview:37,37,Lindelöf,AVL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:56,56,Abraham,AVL,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:35,35,Bogarde,AVL,MID,1190033.0,Lamare Bogarde,surname_or_fuzzy_team,0.93,statfootdb_matched,10025.0,Lamare Bogarde,statfootdb,understat_np_xg
+fplreview:52,52,Alysson,AVL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:44,44,Bailey,AVL,MID,671331.0,Leon Bailey,surname_or_fuzzy_team,0.93,statfootdb_matched,5221.0,Leon Bailey,statfootdb,understat_np_xg
+fplreview:54,54,Gomes,AVL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:49,49,Iling Jr,AVL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:29,29,M.Bizot,AVL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:30,30,Digne,AVL,DEF,210111.0,Lucas Digne,surname_or_fuzzy_team,0.93,statfootdb_matched,1823.0,Lucas Digne,statfootdb,understat_np_xg
+fplreview:38,38,A.García,AVL,DEF,1430406.0,Andres Garcia,surname_or_fuzzy_team,0.93,statfootdb_matched,13392.0,Andrés García,statfootdb,understat_np_xg
+fplreview:39,39,Nedeljkovic,AVL,DEF,1513910.0,Kosta Nedeljkovic,surname_or_fuzzy_team,0.93,statfootdb_matched,12775.0,Kosta Nedeljkovic,statfootdb,understat_np_xg
+fplreview:48,48,Onana,AVL,MID,1185748.0,Amadou Onana,surname_or_fuzzy_team,0.93,statfootdb_matched,9667.0,Amadou Onana,statfootdb,understat_np_xg
+fplreview:50,50,Burrowes,AVL,MID,,,,0.0,fplreview_only,,,,
+fplreview:51,51,George Hemmings,AVL,MID,,,,0.0,fplreview_only,14193.0,George Hemmings,fplreview_supplement,understat_np_xg
+fplreview:582,582,Madjo,AVL,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10012,10012,Ronnie Hollingshead,AVL,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10013,10013,Rhys Oakley,AVL,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10014,10014,Modou Kéba Cissé,AVL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:57,57,Petrović,BOU,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:61,61,Truffert,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:60,60,Hill,BOU,DEF,959407.0,James Hill,surname_or_fuzzy_team,0.93,statfootdb_matched,10747.0,James Hill,statfootdb,understat_np_xg
+fplreview:69,69,Scott,BOU,MID,1233655.0,Alex Scott,surname_or_fuzzy_team,0.93,statfootdb_matched,12149.0,Alex Scott,statfootdb,understat_np_xg
+fplreview:566,566,Silva,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:73,73,Adams,BOU,MID,729769.0,Tyler Adams,surname_or_fuzzy_team,0.93,statfootdb_matched,7352.0,Tyler Adams,statfootdb,understat_np_xg
+fplreview:67,67,Rayan,BOU,MID,,,,0.0,fplreview_only,14395.0,Rayan,fplreview_supplement,understat_np_xg
+fplreview:68,68,Tavernier,BOU,MID,789630.0,Marcus Tavernier,surname_or_fuzzy_team,0.93,statfootdb_matched,10741.0,Marcus Tavernier,statfootdb,understat_np_xg
+fplreview:79,79,Evanilson,BOU,FWD,1098096.0,Evanilson,exact_name_team,1.0,statfootdb_matched,12963.0,Evanilson,statfootdb,understat_np_xg
+fplreview:70,70,Kluivert,BOU,MID,794253.0,Justin Kluivert,surname_or_fuzzy_team,0.93,statfootdb_matched,6963.0,Justin Kluivert,statfootdb,understat_np_xg
+fplreview:573,573,Sanchez,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:64,64,Smith,BOU,DEF,160447.0,Adam Smith,surname_or_fuzzy_team,0.93,statfootdb_matched,825.0,Adam Smith,statfootdb,understat_np_xg
+fplreview:81,81,Rodríguez,BOU,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:77,77,Adli,BOU,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:74,74,Brooks,BOU,MID,674014.0,David Brooks,surname_or_fuzzy_team,0.93,statfootdb_matched,6820.0,David Brooks,statfootdb,understat_np_xg
+fplreview:62,62,Diakité,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:71,71,Cook,BOU,MID,562724.0,Lewis Cook,surname_or_fuzzy_team,0.93,statfootdb_matched,1789.0,Lewis Cook,statfootdb,understat_np_xg
+fplreview:72,72,Gannon-Doak,BOU,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:76,76,Tóth.A,BOU,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:63,63,Milosavljević,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:66,66,Soler,BOU,DEF,1358655.0,Julio Soler,surname_or_fuzzy_team,0.93,statfootdb_matched,13474.0,Julio Soler,statfootdb,understat_np_xg
+fplreview:58,58,Forster,BOU,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:59,59,Dennis,BOU,GKP,,,,0.0,fplreview_only,,,,
+fplreview:65,65,J.Araujo,BOU,DEF,1027447.0,Julian Araujo,surname_or_fuzzy_team,0.93,statfootdb_matched,11745.0,Julián Araujo,statfootdb,understat_np_xg
+fplreview:75,75,Christie,BOU,MID,439369.0,Ryan Christie,surname_or_fuzzy_team,0.93,statfootdb_matched,10744.0,Ryan Christie,statfootdb,understat_np_xg
+fplreview:78,78,Kroupi.Jr,BOU,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:80,80,Enes Ünal,BOU,FWD,464486.0,Enes Ünal,exact_name_team,1.0,statfootdb_matched,6219.0,Enes Ünal,statfootdb,understat_np_xg
+fplreview:10001,10001,Max Aarons,BOU,DEF,956621.0,Max Aarons,exact_name_team,1.0,statfootdb_matched,7688.0,Max Aarons,statfootdb,understat_np_xg
+fplreview:10002,10002,Matai Akinmboni,BOU,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10003,10003,Ben Winterburn,BOU,MID,1697214.0,Ben Winterburn,exact_name_team,1.0,statfootdb_matched,13242.0,Ben Winterburn,statfootdb,understat_np_xg
+fplreview:10004,10004,Charlie Stevens,BOU,MID,,,,0.0,fplreview_only,,,,
+fplreview:10005,10005,Daniel Jebbison,BOU,FWD,1253827.0,Daniel Jebbison,exact_name_team,1.0,statfootdb_matched,9509.0,Daniel Jebbison,statfootdb,understat_np_xg
+fplreview:10006,10006,Jonny Stuttle,BOU,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10007,10007,Romain Faivre,BOU,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10008,10008,Remy Rees-Dottin,BOU,FWD,1702426.0,Remy Rees-Dottin,exact_name_team,1.0,statfootdb_matched,13307.0,Remy Rees-Dottin,statfootdb,understat_np_xg
+fplreview:82,82,Kelleher,BRE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:84,84,Collins,BRE,DEF,961306.0,Nathan Collins,surname_or_fuzzy_team,0.93,statfootdb_matched,9733.0,Nathan Collins,statfootdb,understat_np_xg
+fplreview:88,88,Kayode,BRE,DEF,1429912.0,Michael Kayode,surname_or_fuzzy_team,0.93,statfootdb_matched,11281.0,Michael Kayode,statfootdb,understat_np_xg
+fplreview:106,106,Thiago,BRE,FWD,1302005.0,Igor Thiago,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:87,87,Ajer,BRE,DEF,552718.0,Kristoffer Vassbakk Ajer,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:95,95,O.Dango,BRE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:94,94,Schade,BRE,MID,1083796.0,Kevin Schade,surname_or_fuzzy_team,0.93,statfootdb_matched,9156.0,Kevin Schade,statfootdb,understat_np_xg
+fplreview:102,102,Yarmoliuk,BRE,MID,1157236.0,Yehor Yarmoliuk,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:565,565,Sangaré,BRE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:97,97,Jensen,BRE,MID,650616.0,Mathias Jensen,surname_or_fuzzy_team,0.93,statfootdb_matched,7166.0,Mathias Jensen,statfootdb,understat_np_xg
+fplreview:96,96,Damsgaard,BRE,MID,888912.0,Mikkel Damsgaard,surname_or_fuzzy_team,0.93,statfootdb_matched,8859.0,Mikkel Damsgaard,statfootdb,understat_np_xg
+fplreview:98,98,Janelt,BRE,MID,688273.0,Vitaly Janelt,surname_or_fuzzy_team,0.93,statfootdb_matched,9680.0,Vitaly Janelt,statfootdb,understat_np_xg
+fplreview:89,89,Henry,BRE,DEF,562892.0,Rico Henry,surname_or_fuzzy_team,0.93,statfootdb_matched,9679.0,Rico Henry,statfootdb,understat_np_xg
+fplreview:86,86,Lewis-Potter,BRE,MID,1010426.0,Keane Lewis-Potter,surname_or_fuzzy_team,0.93,statfootdb_matched,10809.0,Keane Lewis-Potter,statfootdb,understat_np_xg
+fplreview:105,105,Anthony,BRE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:90,90,Hickey,BRE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:93,93,Schuster,BRE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:108,108,Wilson,BRE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:103,103,Dasilva,BRE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:92,92,Ji-soo,BRE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:100,100,Carvalho,BRE,MID,963965.0,Fabio Carvalho,surname_or_fuzzy_team,0.93,statfootdb_matched,9501.0,Fabio Carvalho,statfootdb,understat_np_xg
+fplreview:91,91,Pinnock,BRE,DEF,711357.0,Ethan Pinnock,surname_or_fuzzy_team,0.93,statfootdb_matched,9678.0,Ethan Pinnock,statfootdb,understat_np_xg
+fplreview:99,99,Milambo,BRE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:83,83,Valdimarsson,BRE,GKP,850962.0,Hákon Rafn Valdimarsson,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:85,85,Van den Berg,BRE,DEF,919435.0,Sepp van den Berg,surname_or_fuzzy_team,0.93,statfootdb_matched,10721.0,Sepp van den Berg,statfootdb,understat_np_xg
+fplreview:107,107,Furo,BRE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10017,10017,Ellery Balcombe,BRE,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10020,10020,Benjamin Fredrick,BRE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10021,10021,Jayden Meghoma,BRE,DEF,1574106.0,Jayden Meghoma,exact_name_team,1.0,statfootdb_matched,13067.0,Jayden Meghoma,statfootdb,understat_np_xg
+fplreview:10022,10022,Luka Bentt,BRE,MID,,,,0.0,fplreview_only,,,,
+fplreview:10023,10023,Gustavo Nunes,BRE,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10097,10097,Andre Grey,BRE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10098,10098,Luca Picotto,BRE,MID,,,,0.0,fplreview_only,,,,
+fplreview:10103,10103,Yunus Emre Konak,BRE,MID,1524063.0,Yunus Emre Konak,exact_name_team,1.0,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:109,109,Verbruggen,BHA,GKP,1131987.0,Bart Verbruggen,surname_or_fuzzy_team,0.93,statfootdb_matched,11711.0,Bart Verbruggen,statfootdb,understat_np_xg
+fplreview:113,113,F.Kadıoğlu,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:124,124,Groß,BHA,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:130,130,Wieffer,BHA,DEF,970243.0,Mats Wieffer,surname_or_fuzzy_team,0.93,statfootdb_matched,12758.0,Mats Wieffer,statfootdb,understat_np_xg
+fplreview:127,127,Gomez,BHA,MID,1354561.0,Diego Gomez,surname_or_fuzzy_team,0.93,statfootdb_matched,13364.0,Diego Gómez,statfootdb,understat_np_xg
+fplreview:125,125,Georginio,BHA,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:123,123,Hinshelwood,BHA,MID,1251334.0,Jack Hinshelwood,surname_or_fuzzy_team,0.93,statfootdb_matched,11269.0,Jack Hinshelwood,statfootdb,understat_np_xg
+fplreview:116,116,Dunk,BHA,DEF,201690.0,Lewis Dunk,surname_or_fuzzy_team,0.93,statfootdb_matched,6048.0,Lewis Dunk,statfootdb,understat_np_xg
+fplreview:115,115,De Cuyper,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:129,129,Ayari,BHA,MID,1168311.0,Yasin Ayari,surname_or_fuzzy_team,0.93,statfootdb_matched,11385.0,Yasin Ayari,statfootdb,understat_np_xg
+fplreview:504,504,Vuskovic,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:114,114,Boscagli,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:328,328,Struijk,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:135,135,Yohanna,BHA,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:138,138,Kostoulas,BHA,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:126,126,O'Riley,BHA,MID,866686.0,Matthew O'Riley,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:131,131,Baleba,BHA,MID,1352713.0,Carlos Baleba,surname_or_fuzzy_team,0.93,statfootdb_matched,10527.0,Carlos Baleba,statfootdb,understat_np_xg
+fplreview:119,119,Costinha,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:121,121,Mitoma,BHA,MID,862608.0,Kaoru Mitoma,surname_or_fuzzy_team,0.93,statfootdb_matched,10806.0,Kaoru Mitoma,statfootdb,understat_np_xg
+fplreview:137,137,Tzimas,BHA,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:111,111,Steele,BHA,GKP,107917.0,Jason Steele,surname_or_fuzzy_team,0.93,statfootdb_matched,7235.0,Jason Steele,statfootdb,understat_np_xg
+fplreview:117,117,Coppola,BHA,DEF,,,,0.0,fplreview_only,,,,
+fplreview:118,118,Igor,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:120,120,Svoboda,BHA,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:122,122,Minteh,BHA,MID,1400227.0,Yankuba Minteh,surname_or_fuzzy_team,0.93,statfootdb_matched,12759.0,Yankuba Minteh,statfootdb,understat_np_xg
+fplreview:128,128,Buonanotte,BHA,MID,,,,0.0,fplreview_only,,,,
+fplreview:132,132,Howell,BHA,MID,1446616.0,Harry Howell,surname_or_fuzzy_team,0.93,statfootdb_matched,13584.0,Harry Howell,statfootdb,understat_np_xg
+fplreview:133,133,Watson,BHA,MID,,,,0.0,fplreview_only,,,,
+fplreview:134,134,Oriola,BHA,MID,,,,0.0,fplreview_only,,,,
+fplreview:139,139,Ferguson,BHA,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10024,10024,Eiran Cashin,BHA,DEF,1127305.0,Eiran Cashin,exact_name_team,1.0,statfootdb_matched,13459.0,Eiran Cashin,statfootdb,understat_np_xg
+fplreview:10025,10025,Malick Junior Yalcouyé,BHA,MID,,,,0.0,fplreview_only,,,,
+fplreview:10026,10026,Amario Cozier-Duberry,BHA,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10027,10027,Ibrahim Osman,BHA,FWD,,,,0.0,fplreview_only,,,,
+fplreview:140,140,Sánchez,CHE,GKP,789571.0,Robert Sánchez,surname_or_fuzzy_team,0.93,statfootdb_matched,9098.0,Robert Sánchez,statfootdb,understat_np_xg
+fplreview:159,159,Caicedo,CHE,MID,1137668.0,Moisés Caicedo,surname_or_fuzzy_team,0.93,statfootdb_matched,9453.0,Moisés Caicedo,statfootdb,understat_np_xg
+fplreview:200,200,Lacroix,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:165,165,João Pedro,CHE,FWD,,,,0.0,fplreview_only,8272.0,João Pedro,fplreview_supplement,understat_np_xg
+fplreview:149,149,Colwill,CHE,DEF,1096400.0,Levi Colwill,surname_or_fuzzy_team,0.93,statfootdb_matched,10805.0,Levi Colwill,statfootdb,understat_np_xg
+fplreview:154,154,Palmer,CHE,MID,1096353.0,Cole Palmer,surname_or_fuzzy_team,0.93,statfootdb_matched,8497.0,Cole Palmer,statfootdb,understat_np_xg
+fplreview:40,40,Rogers,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:142,142,James,CHE,DEF,807729.0,Reece James,surname_or_fuzzy_team,0.93,statfootdb_matched,8067.0,Reece James,statfootdb,understat_np_xg
+fplreview:152,152,Palestra,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:148,148,Hato,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:155,155,Enzo,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:156,156,Neto,CHE,MID,843040.0,Pedro Neto,surname_or_fuzzy_team,0.93,statfootdb_matched,6382.0,Pedro Neto,statfootdb,understat_np_xg
+fplreview:161,161,Lavia,CHE,MID,1190867.0,Romeo Lavia,surname_or_fuzzy_team,0.93,statfootdb_matched,10004.0,Romeo Lavia,statfootdb,understat_np_xg
+fplreview:583,583,Chavarria,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:568,568,Barco,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:144,144,Gusto,CHE,DEF,1197250.0,Malo Gusto,surname_or_fuzzy_team,0.93,statfootdb_matched,9017.0,Malo Gusto,statfootdb,understat_np_xg
+fplreview:147,147,Tosin,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:164,164,Quenda,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:136,136,Welbeck,CHE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:157,157,Estêvão,CHE,MID,,,,0.0,fplreview_only,13775.0,Estêvão,fplreview_supplement,understat_np_xg
+fplreview:151,151,Acheampong,CHE,DEF,1400216.0,Josh Acheampong,surname_or_fuzzy_team,0.93,statfootdb_matched,12535.0,Josh Acheampong,statfootdb,understat_np_xg
+fplreview:167,167,Delap,CHE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:163,163,D.Essugo,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:146,146,B.Badiashile,CHE,DEF,955376.0,Benoit Badiashile,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:150,150,M.Sarr,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:153,153,Disasi,CHE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:158,158,Gittens,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:166,166,N.Jackson,CHE,FWD,1197347.0,Nicolas Jackson,surname_or_fuzzy_team,0.93,statfootdb_matched,10048.0,Nicolas Jackson,statfootdb,understat_np_xg
+fplreview:170,170,Emegha,CHE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:578,578,Mudryk,CHE,MID,976506.0,Mykhaylo Mudryk,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:101,101,Henderson,CHE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:141,141,Jörgensen,CHE,GKP,1200984.0,Filip Jörgensen,surname_or_fuzzy_team,0.93,statfootdb_matched,9272.0,Filip Jorgensen,statfootdb,understat_np_xg
+fplreview:143,143,Chalobah,CHE,DEF,793907.0,Trevoh Chalobah,surname_or_fuzzy_team,0.93,statfootdb_matched,6615.0,Trevoh Chalobah,statfootdb,understat_np_xg
+fplreview:145,145,Fofana,CHE,DEF,917802.0,Wesley Fofana,surname_or_fuzzy_team,0.93,statfootdb_matched,7589.0,Wesley Fofana,statfootdb,understat_np_xg
+fplreview:168,168,Marc Guiu,CHE,FWD,1412137.0,Marc Guiu,exact_name_team,1.0,statfootdb_matched,11633.0,Marc Guiu,statfootdb,understat_np_xg
+fplreview:169,169,Mheuka,CHE,FWD,1346113.0,Shumaira Mheuka,surname_or_fuzzy_team,0.93,statfootdb_matched,13476.0,Shumaira Mheuka,statfootdb,understat_np_xg
+fplreview:560,560,Penders,CHE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:561,561,Anselmino,CHE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10028,10028,James Hillson,CHE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10030,10030,Gaga Slonina,CHE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10032,10032,Denner,CHE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10033,10033,Ishé Samuels-Smith,CHE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10034,10034,Caleb Wiley,CHE,MID,,,,0.0,fplreview_only,,,,
+fplreview:10035,10035,David Datro Fofana,CHE,FWD,917802.0,Wesley Fofana,surname_or_fuzzy_team,0.93,statfootdb_matched,7589.0,Wesley Fofana,statfootdb,understat_np_xg
+fplreview:10037,10037,Omari Kellyman,CHE,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10086,10086,Harrison Bettoni,CHE,MID,,,,0.0,fplreview_only,,,,
+fplreview:10091,10091,Dastan Satpaev,CHE,FWD,,,,0.0,fplreview_only,,,,
+fplreview:110,110,Rushworth,COV,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:175,175,van Ewijk,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:176,176,Dasilva,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:173,173,Thomas,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:184,184,Grimes,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:186,186,Mason-Clark,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:193,193,Wright,COV,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:182,182,Amenda,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:190,190,Tchaouna,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:194,194,Thomas-Asante,COV,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:104,104,Onyeka,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:584,584,Hamer,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:185,185,Sakamoto,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:174,174,Kitching,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:183,183,Rudoni,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:575,575,Yirenkyi,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:195,195,Simms,COV,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:188,188,Torp,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:177,177,Kesler-Hayden,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:187,187,Eccles,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:178,178,Bidwell,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:196,196,Markelo,COV,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:179,179,Latibeaudiere,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:180,180,Woolfenden,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:192,192,Andrews,COV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:181,181,Brau,COV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:171,171,Dovin,COV,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:172,172,Wilson,COV,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:189,189,Shepherd,COV,MID,,,,0.0,fplreview_only,,,,
+fplreview:191,191,Borges Rodrigues,COV,MID,,,,0.0,fplreview_only,,,,
+fplreview:197,197,Bassette,COV,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10038,10038,Oscar Varney,COV,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10039,10039,Harri Laidler,COV,MID,,,,0.0,fplreview_only,,,,
+fplreview:198,198,Henderson,CRY,GKP,719330.0,Dean Henderson,surname_or_fuzzy_team,0.93,statfootdb_matched,7702.0,Dean Henderson,statfootdb,understat_np_xg
+fplreview:202,202,Richards,CRY,DEF,950829.0,Chris Richards,surname_or_fuzzy_team,0.93,statfootdb_matched,8430.0,Chris Richards,statfootdb,understat_np_xg
+fplreview:203,203,Canvot,CRY,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:201,201,Muñoz,CRY,DEF,859282.0,Daniel Munoz,surname_or_fuzzy_team,0.93,statfootdb_matched,12408.0,Daniel Muñoz,statfootdb,understat_np_xg
+fplreview:210,210,Wharton,CRY,MID,1296650.0,Adam Wharton,surname_or_fuzzy_team,0.93,statfootdb_matched,12409.0,Adam Wharton,statfootdb,understat_np_xg
+fplreview:208,208,Sarr,CRY,MID,771294.0,Ismaila Sarr,surname_or_fuzzy_team,0.93,statfootdb_matched,5675.0,Ismaila Sarr,statfootdb,understat_np_xg
+fplreview:206,206,Chadi Riad,CRY,DEF,1187506.0,Chadi Riad,exact_name_team,1.0,statfootdb_matched,11167.0,Chadi Riad,statfootdb,understat_np_xg
+fplreview:204,204,Mitchell,CRY,DEF,1120224.0,Tyrick Mitchell,surname_or_fuzzy_team,0.93,statfootdb_matched,8214.0,Tyrick Mitchell,statfootdb,understat_np_xg
+fplreview:222,222,Strand Larsen,CRY,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:214,214,Kamada,CRY,MID,621515.0,Daichi Kamada,surname_or_fuzzy_team,0.93,statfootdb_matched,6145.0,Daichi Kamada,statfootdb,understat_np_xg
+fplreview:211,211,Yeremy,CRY,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:223,223,Mateta,CRY,FWD,706297.0,Jean-Philippe Mateta,surname_or_fuzzy_team,0.93,statfootdb_matched,5735.0,Jean-Philippe Mateta,statfootdb,understat_np_xg
+fplreview:42,42,Guessand,CRY,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:212,212,Hughes,CRY,MID,295067.0,Will Hughes,surname_or_fuzzy_team,0.93,statfootdb_matched,6104.0,Will Hughes,statfootdb,understat_np_xg
+fplreview:207,207,Mingueza,CRY,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:241,241,McNeil,CRY,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:224,224,Nketiah,CRY,FWD,860920.0,Edward Nketiah,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:213,213,Lerma,CRY,MID,466672.0,Jefferson Lerma,surname_or_fuzzy_team,0.93,statfootdb_matched,2182.0,Jefferson Lerma,statfootdb,understat_np_xg
+fplreview:577,577,Tomiyasu,CRY,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:205,205,Sosa,CRY,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:215,215,Devenny,CRY,MID,1336751.0,Justin Devenny,surname_or_fuzzy_team,0.93,statfootdb_matched,13038.0,Justin Devenny,statfootdb,understat_np_xg
+fplreview:217,217,M.França,CRY,MID,1316124.0,Matheus Franca,surname_or_fuzzy_team,0.93,statfootdb_matched,12152.0,Matheus França,statfootdb,understat_np_xg
+fplreview:218,218,Doucouré,CRY,MID,951954.0,Cheick Oumar Doucouré,surname_or_fuzzy_team,0.93,statfootdb_matched,8666.0,Cheick Oumar Doucoure,statfootdb,understat_np_xg
+fplreview:199,199,Benitez,CRY,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:216,216,Esse,CRY,MID,1428401.0,Romain Esse,surname_or_fuzzy_team,0.93,statfootdb_matched,13387.0,Romain Esse,statfootdb,understat_np_xg
+fplreview:219,219,J.Rak-Sakyi,CRY,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:220,220,Cardines,CRY,DEF,,,,0.0,fplreview_only,,,,
+fplreview:221,221,Drakes-Thomas,CRY,MID,,,,0.0,fplreview_only,,,,
+fplreview:225,225,Uche,CRY,FWD,,,,0.0,fplreview_only,,,,
+fplreview:555,555,Matthews,CRY,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10041,10041,Joe Whitworth,CRY,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10042,10042,George King,CRY,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10043,10043,David Ozoh,CRY,MID,,,,0.0,fplreview_only,,,,
+fplreview:10044,10044,Nathaniel Clyne,CRY,MID,157838.0,Nathaniel Clyne,exact_name_team,1.0,statfootdb_matched,603.0,Nathaniel Clyne,statfootdb,understat_np_xg
+fplreview:10046,10046,Caleb Kporha,CRY,MID,1418099.0,Caleb Kporha,exact_name_team,1.0,statfootdb_matched,13130.0,Caleb Kporha,statfootdb,understat_np_xg
+fplreview:10047,10047,Dean Benamar,CRY,MID,,,,0.0,fplreview_only,,,,
+fplreview:226,226,Pickford,EVE,GKP,303919.0,Jordan Pickford,surname_or_fuzzy_team,0.93,statfootdb_matched,741.0,Jordan Pickford,statfootdb,understat_np_xg
+fplreview:229,229,Tarkowski,EVE,DEF,243138.0,James Tarkowski,surname_or_fuzzy_team,0.93,statfootdb_matched,1665.0,James Tarkowski,statfootdb,understat_np_xg
+fplreview:230,230,Branthwaite,EVE,DEF,1030829.0,Jarrad Branthwaite,surname_or_fuzzy_team,0.93,statfootdb_matched,8476.0,Jarrad Branthwaite,statfootdb,understat_np_xg
+fplreview:232,232,O'Brien,EVE,DEF,1098607.0,Jake O'Brien,surname_or_fuzzy_team,0.93,statfootdb_matched,12014.0,Jake O'Brien,statfootdb,understat_np_xg
+fplreview:233,233,Mykolenko,EVE,DEF,874025.0,Vitaliy Mykolenko,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:236,236,Dewsbury-Hall,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:237,237,Ndiaye,EVE,MID,965764.0,Iliman Ndiaye,surname_or_fuzzy_team,0.93,statfootdb_matched,9307.0,Iliman Ndiaye,statfootdb,understat_np_xg
+fplreview:249,249,Barry,EVE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:247,247,Hackney,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:209,209,Johnson,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:240,240,Iroegbunam,EVE,MID,1203512.0,Tim Iroegbunam,surname_or_fuzzy_team,0.93,statfootdb_matched,9554.0,Tim Iroegbunam,statfootdb,understat_np_xg
+fplreview:21,21,Nørgaard,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:246,246,Röhl,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:242,242,George,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:248,248,Beto,EVE,FWD,1079485.0,Beto,exact_name_team,1.0,statfootdb_matched,9983.0,Beto,statfootdb,understat_np_xg
+fplreview:243,243,Alcaraz,EVE,MID,1128965.0,Carlos Alcaraz,surname_or_fuzzy_team,0.93,statfootdb_matched,11297.0,Carlos Alcaraz,statfootdb,understat_np_xg
+fplreview:231,231,Keane,EVE,DEF,290410.0,Michael Keane,surname_or_fuzzy_team,0.93,statfootdb_matched,1653.0,Michael Keane,statfootdb,understat_np_xg
+fplreview:239,239,Garner,EVE,MID,950474.0,James Garner,surname_or_fuzzy_team,0.93,statfootdb_matched,7438.0,James Garner,statfootdb,understat_np_xg
+fplreview:244,244,Armstrong,EVE,MID,1559637.0,Harrison Armstrong,surname_or_fuzzy_team,0.93,statfootdb_matched,12757.0,Harrison Armstrong,statfootdb,understat_np_xg
+fplreview:245,245,Dibling,EVE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:234,234,Patterson,EVE,DEF,1112684.0,Nathan Patterson,surname_or_fuzzy_team,0.93,statfootdb_matched,10292.0,Nathan Patterson,statfootdb,understat_np_xg
+fplreview:235,235,Aznou,EVE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:227,227,Travers,EVE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:228,228,King,EVE,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10049,10049,Elijah Campbell,EVE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:250,250,Leno,FUL,GKP,215168.0,Bernd Leno,surname_or_fuzzy_team,0.93,statfootdb_matched,181.0,Bernd Leno,statfootdb,understat_np_xg
+fplreview:255,255,J.Cuenca,FUL,DEF,821728.0,Jorge Cuenca,surname_or_fuzzy_team,0.93,statfootdb_matched,8489.0,Jorge Cuenca,statfootdb,understat_np_xg
+fplreview:257,257,Bassey,FUL,DEF,877401.0,Calvin Bassey,surname_or_fuzzy_team,0.93,statfootdb_matched,11728.0,Calvin Bassey,statfootdb,understat_np_xg
+fplreview:254,254,Robinson,FUL,DEF,662428.0,Antonee Robinson,surname_or_fuzzy_team,0.93,statfootdb_matched,8940.0,Antonee Robinson,statfootdb,understat_np_xg
+fplreview:261,261,Iwobi,FUL,MID,604785.0,Alex Iwobi,surname_or_fuzzy_team,0.93,statfootdb_matched,500.0,Alex Iwobi,statfootdb,understat_np_xg
+fplreview:569,569,Gonzalo,FUL,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:264,264,Bobb,FUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:256,256,Tete,FUL,DEF,469804.0,Kenny Tete,surname_or_fuzzy_team,0.93,statfootdb_matched,5973.0,Kenny Tete,statfootdb,understat_np_xg
+fplreview:265,265,Berge,FUL,MID,540963.0,Sander Berge,surname_or_fuzzy_team,0.93,statfootdb_matched,8285.0,Sander Berge,statfootdb,understat_np_xg
+fplreview:268,268,King,FUL,MID,1422593.0,Joshua King,surname_or_fuzzy_team,0.93,statfootdb_matched,12410.0,Joshua King,statfootdb,understat_np_xg
+fplreview:580,580,Charles,FUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:570,570,Palacios,FUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:263,263,Kevin,FUL,MID,,,,0.0,fplreview_only,14030.0,Kevin,fplreview_supplement,understat_np_xg
+fplreview:258,258,Castagne,FUL,DEF,465750.0,Timothy Castagne,surname_or_fuzzy_team,0.93,statfootdb_matched,6157.0,Timothy Castagne,statfootdb,understat_np_xg
+fplreview:262,262,Smith Rowe,FUL,MID,889534.0,Emile Smith Rowe,surname_or_fuzzy_team,0.93,statfootdb_matched,7230.0,Emile Smith-Rowe,statfootdb,understat_np_xg
+fplreview:269,269,Sessegnon,FUL,DEF,773991.0,Ryan Sessegnon,surname_or_fuzzy_team,0.93,statfootdb_matched,6837.0,Ryan Sessegnon,statfootdb,understat_np_xg
+fplreview:271,271,Muniz,FUL,FWD,1128945.0,Rodrigo Muniz,surname_or_fuzzy_team,0.93,statfootdb_matched,10717.0,Rodrigo Muniz,statfootdb,understat_np_xg
+fplreview:270,270,Reed,FUL,MID,502420.0,Harrison Reed,surname_or_fuzzy_team,0.93,statfootdb_matched,910.0,Harrison Reed,statfootdb,understat_np_xg
+fplreview:272,272,Kusi-Asare,FUL,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:251,251,Lecomte,FUL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:252,252,McNally,FUL,GKP,,,,0.0,fplreview_only,,,,
+fplreview:253,253,Andersen,FUL,DEF,503659.0,Joachim Andersen,surname_or_fuzzy_team,0.93,statfootdb_matched,6314.0,Joachim Andersen,statfootdb,understat_np_xg
+fplreview:266,266,Cairney,FUL,MID,182962.0,Tom Cairney,surname_or_fuzzy_team,0.93,statfootdb_matched,6835.0,Tom Cairney,statfootdb,understat_np_xg
+fplreview:10051,10051,Luke Harris,FUL,MID,,,,0.0,fplreview_only,,,,
+fplreview:572,572,Tzolakis,HUL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:295,295,McBurnie,HUL,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:280,280,Coyle,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:586,586,Mendy,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:277,277,Egan,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:282,282,Giles,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:290,290,Slater,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:574,574,Hjertø-Dahl,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:286,286,Belloumi,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:576,576,Stroud,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:289,289,Crooks,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:287,287,Millar,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:279,279,Ajayi,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:585,585,Herrington,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:556,556,Targett,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:292,292,Ömür,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:563,563,Morita,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:288,288,Dowell,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:296,296,Akintola,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:285,285,McNair,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:281,281,Drameh,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10052,10052,Brandon Williams,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:278,278,Hughes,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:283,283,Jacob,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:273,273,Phillips,HUL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:274,274,Butland,HUL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:275,275,Cartwright,HUL,GKP,,,,0.0,fplreview_only,,,,
+fplreview:276,276,Lo-Tutala,HUL,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:284,284,McCarthy,HUL,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:291,291,Matazo,HUL,MID,,,,0.0,fplreview_only,,,,
+fplreview:293,293,Kamara,HUL,MID,,,,0.0,fplreview_only,,,,
+fplreview:294,294,Zambrano,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:297,297,Gyabi,HUL,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:298,298,Destan,HUL,FWD,,,,0.0,fplreview_only,,,,
+fplreview:299,299,Burstow,HUL,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10087,10087,Reuben Silk,HUL,MID,,,,0.0,fplreview_only,,,,
+fplreview:10101,10101,Josh Ocaya,HUL,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10102,10102,Dellal Robinson,HUL,DEF,,,,0.0,fplreview_only,,,,
+fplreview:259,259,Diop,IPS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:304,304,O'Shea,IPS,DEF,789578.0,Dara O'Shea,surname_or_fuzzy_team,0.93,statfootdb_matched,8756.0,Dara O'Shea,statfootdb,understat_np_xg
+fplreview:564,564,Scherpen,IPS,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:305,305,Davis,IPS,DEF,980381.0,Leif Davis,surname_or_fuzzy_team,0.93,statfootdb_matched,8919.0,Leif Davis,statfootdb,understat_np_xg
+fplreview:267,267,Lukić,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:571,571,Florentino,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:315,315,Fatawu,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:308,308,Furlong,IPS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:316,316,Emersonn,IPS,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:562,562,Maeda,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:306,306,Greaves,IPS,DEF,1079103.0,Jacob Greaves,surname_or_fuzzy_team,0.93,statfootdb_matched,12745.0,Jacob Greaves,statfootdb,understat_np_xg
+fplreview:324,324,Mehmeti,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:318,318,Philogene,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:309,309,Núñez,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:321,321,Walle Egeli,IPS,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:313,313,Clarke,IPS,MID,914402.0,Jack Clarke,surname_or_fuzzy_team,0.93,statfootdb_matched,13019.0,Jack Clarke,statfootdb,understat_np_xg
+fplreview:310,310,Matusiwa,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:303,303,Kipré,IPS,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:307,307,Johnson,IPS,DEF,770267.0,Ben Johnson,surname_or_fuzzy_team,0.93,statfootdb_matched,6424.0,Ben Johnson,statfootdb,understat_np_xg
+fplreview:312,312,Taylor,IPS,MID,789507.0,Jack Taylor,surname_or_fuzzy_team,0.93,statfootdb_matched,12754.0,Jack Taylor,statfootdb,understat_np_xg
+fplreview:323,323,McAteer,IPS,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:320,320,Akpom,IPS,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:317,317,Hirst,IPS,FWD,750033.0,George Hirst,surname_or_fuzzy_team,0.93,statfootdb_matched,8563.0,George Hirst,statfootdb,understat_np_xg
+fplreview:554,554,Van Oevelen,IPS,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:300,300,Walton,IPS,GKP,512013.0,Christian Walton,surname_or_fuzzy_team,0.93,statfootdb_matched,9251.0,Christian Walton,statfootdb,understat_np_xg
+fplreview:314,314,Ogbene,IPS,MID,674009.0,Chiedozie Ogbene,surname_or_fuzzy_team,0.93,statfootdb_matched,11719.0,Chiedozie Ogbene,statfootdb,understat_np_xg
+fplreview:301,301,Palmer,IPS,GKP,643228.0,Alex Palmer,surname_or_fuzzy_team,0.93,statfootdb_matched,1038.0,Alex Palmer,statfootdb,understat_np_xg
+fplreview:302,302,Button,IPS,GKP,,,,0.0,fplreview_only,,,,
+fplreview:311,311,Burns,IPS,MID,421768.0,Wes Burns,surname_or_fuzzy_team,0.93,statfootdb_matched,12749.0,Wes Burns,statfootdb,understat_np_xg
+fplreview:319,319,Szmodics,IPS,MID,491827.0,Sammie Szmodics,surname_or_fuzzy_team,0.93,statfootdb_matched,12752.0,Sammie Szmodics,statfootdb,understat_np_xg
+fplreview:322,322,Al-Hamadi,IPS,FWD,1113688.0,Ali Al Hamadi,surname_or_fuzzy_team,0.93,statfootdb_matched,12751.0,Ali Al-Hamadi,statfootdb,understat_np_xg
+fplreview:10054,10054,Cameron Humphreys,IPS,MID,,,,0.0,fplreview_only,,,,
+fplreview:10055,10055,Harry Clarke,IPS,MID,1086712.0,Harry Clarke,exact_name_team,1.0,statfootdb_matched,13133.0,Harry Clarke,statfootdb,understat_np_xg
+fplreview:385,385,Trafford,LEE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:332,332,Justin,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:329,329,Rodon,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:334,334,Muharemović,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:338,338,Ampadu,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:327,327,Bijol,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:330,330,Bogle,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:346,346,Calvert-Lewin,LEE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:335,335,Stach,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:260,260,Wilson,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:336,336,Okafor,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:337,337,Aaronson,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:347,347,Nmecha,LEE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:345,345,Tanaka,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:339,339,Longstaff,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:333,333,Bornauw,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:344,344,Gruev,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:343,343,James,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:341,341,Gnonto,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:331,331,Gudmundsson,LEE,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:340,340,Gelhardt,LEE,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:326,326,Perri,LEE,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:342,342,Harrison,LEE,MID,,,,0.0,fplreview_only,,,,
+fplreview:348,348,Piroe,LEE,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:349,349,Mateo Joseph,LEE,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10056,10056,Alex Cairns,LEE,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10058,10058,Sam Byram,LEE,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10059,10059,Largie Ramazani,LEE,MID,,,,0.0,fplreview_only,,,,
+fplreview:350,350,A.Becker,LIV,GKP,319784.0,Alisson Becker,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:356,356,Virgil,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:368,368,Szoboszlai,LIV,MID,846005.0,Dominik Szoboszlai,surname_or_fuzzy_team,0.93,statfootdb_matched,9788.0,Dominik Szoboszlai,statfootdb,understat_np_xg
+fplreview:371,371,Gravenberch,LIV,MID,956683.0,Ryan Gravenberch,surname_or_fuzzy_team,0.93,statfootdb_matched,10697.0,Ryan Gravenberch,statfootdb,understat_np_xg
+fplreview:366,366,Wirtz,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:367,367,Gakpo,LIV,MID,806552.0,Cody Gakpo,surname_or_fuzzy_team,0.93,statfootdb_matched,11296.0,Cody Gakpo,statfootdb,understat_np_xg
+fplreview:358,358,Kerkez,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:357,357,Frimpong,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:379,379,Isak,LIV,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:369,369,Ngumoha,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:579,579,Araujo,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:373,373,C.Jones,LIV,MID,933768.0,Curtis Jones,surname_or_fuzzy_team,0.93,statfootdb_matched,6665.0,Curtis Jones,statfootdb,understat_np_xg
+fplreview:362,362,Jacquet,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:364,364,Tsimikas,LIV,DEF,671529.0,Konstantinos Tsimikas,surname_or_fuzzy_team,0.93,statfootdb_matched,8852.0,Konstantinos Tsimikas,statfootdb,understat_np_xg
+fplreview:372,372,Mac Allister,LIV,MID,831489.0,Alexis Mac Allister,surname_or_fuzzy_team,0.93,statfootdb_matched,8379.0,Alexis Mac Allister,statfootdb,understat_np_xg
+fplreview:377,377,Munoz,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:370,370,Chiesa,LIV,MID,784510.0,Federico Chiesa,surname_or_fuzzy_team,0.93,statfootdb_matched,1433.0,Federico Chiesa,statfootdb,understat_np_xg
+fplreview:374,374,Endo,LIV,MID,202643.0,Wataru Endo,surname_or_fuzzy_team,0.93,statfootdb_matched,8808.0,Wataru Endo,statfootdb,understat_np_xg
+fplreview:363,363,Leoni,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:375,375,Nyoni,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:381,381,Koumas,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:359,359,Gomez,LIV,DEF,568571.0,Joseph Gomez,surname_or_fuzzy_team,0.93,statfootdb_matched,987.0,Joseph Gomez,statfootdb,understat_np_xg
+fplreview:351,351,Mamardashvili,LIV,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:352,352,Woodman,LIV,GKP,,,,0.0,fplreview_only,,,,
+fplreview:353,353,Pecsi,LIV,GKP,,,,0.0,fplreview_only,,,,
+fplreview:354,354,Jaros,LIV,GKP,1068920.0,Vitezslav Jaros,surname_or_fuzzy_team,0.93,statfootdb_matched,13103.0,Vítezslav Jaros,statfootdb,understat_np_xg
+fplreview:355,355,Davies,LIV,GKP,,,,0.0,fplreview_only,,,,
+fplreview:360,360,Bradley,LIV,DEF,1113690.0,Conor Bradley,surname_or_fuzzy_team,0.93,statfootdb_matched,10120.0,Conor Bradley,statfootdb,understat_np_xg
+fplreview:361,361,Lucky,LIV,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:365,365,Ramsay,LIV,DEF,,,,0.0,fplreview_only,,,,
+fplreview:376,376,Bajcetic,LIV,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:378,378,McConnell,LIV,MID,,,,0.0,fplreview_only,,,,
+fplreview:380,380,Ekitiké,LIV,FWD,,,,0.0,fplreview_only,,,,
+fplreview:382,382,Danns,LIV,FWD,1416696.0,Jayden Danns,surname_or_fuzzy_team,0.93,statfootdb_matched,12455.0,Jayden Danns,statfootdb,understat_np_xg
+fplreview:383,383,Elliott,LIV,MID,963964.0,Harvey Elliott,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:384,384,Donnarumma,MCI,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:411,411,Haaland,MCI,FWD,737066.0,Erling Haaland,surname_or_fuzzy_team,0.93,statfootdb_matched,8260.0,Erling Haaland,statfootdb,understat_np_xg
+fplreview:391,391,Gvardiol,MCI,DEF,1070712.0,Josko Gvardiol,surname_or_fuzzy_team,0.93,statfootdb_matched,9790.0,Josko Gvardiol,statfootdb,understat_np_xg
+fplreview:397,397,Semenyo,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:389,389,Matheus N.,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:387,387,O'Reilly,MCI,DEF,1300526.0,Nico O'Reilly,surname_or_fuzzy_team,0.93,statfootdb_matched,11592.0,Nico O'Reilly,statfootdb,understat_np_xg
+fplreview:398,398,Foden,MCI,MID,815006.0,Phil Foden,surname_or_fuzzy_team,0.93,statfootdb_matched,6055.0,Phil Foden,statfootdb,understat_np_xg
+fplreview:390,390,Rúben,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:481,481,Anderson,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:405,405,N.Gonzalez,MCI,MID,1280132.0,Nico González,surname_or_fuzzy_team,0.93,statfootdb_matched,9802.0,Nico González,statfootdb,understat_np_xg
+fplreview:388,388,Guéhi,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:400,400,Doku,MCI,MID,942368.0,Jérémy Doku,surname_or_fuzzy_team,0.93,statfootdb_matched,8981.0,Jéremy Doku,statfootdb,understat_np_xg
+fplreview:399,399,Cherki,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:392,392,Aït-Nouri,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:404,404,Reijnders,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:393,393,Khusanov,MCI,DEF,1362998.0,Abdukodir Khusanov,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:403,403,Savinho,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:401,401,Marmoush,MCI,FWD,839204.0,Omar Marmoush,surname_or_fuzzy_team,0.93,statfootdb_matched,8393.0,Omar Marmoush,statfootdb,understat_np_xg
+fplreview:402,402,Rodrigo,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:406,406,Kovačić,MCI,MID,239219.0,Mateo Kovacic,surname_or_fuzzy_team,0.93,statfootdb_matched,2254.0,Mateo Kovacic,statfootdb,understat_np_xg
+fplreview:395,395,Lewis,MCI,DEF,1288450.0,Rico Lewis,surname_or_fuzzy_team,0.93,statfootdb_matched,10847.0,Rico Lewis,statfootdb,understat_np_xg
+fplreview:238,238,Grealish,MCI,MID,312765.0,Jack Grealish,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:396,396,Vitor Reis,MCI,DEF,1580952.0,Vitor Reis,exact_name_team,1.0,statfootdb_matched,13380.0,Vitor Reis,statfootdb,understat_np_xg
+fplreview:408,408,Phillips,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:409,409,Mukasa,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:587,587,Rulli,MCI,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10061,10061,Josh Wilson-Esbrand,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:386,386,Bettinelli,MCI,GKP,,,,0.0,fplreview_only,,,,
+fplreview:394,394,Alleyne,MCI,DEF,,,,0.0,fplreview_only,,,,
+fplreview:407,407,Echeverri,MCI,MID,1486264.0,Claudio Echeverri,surname_or_fuzzy_team,0.93,statfootdb_matched,13649.0,Claudio Echeverri,statfootdb,understat_np_xg
+fplreview:410,410,Monga,MCI,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10062,10062,Juma Bah,MCI,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10063,10063,Issa Kaboré,MCI,MID,,,,0.0,fplreview_only,,,,
+fplreview:10064,10064,Ryan McAidoo,MCI,FWD,,,,0.0,fplreview_only,,,,
+fplreview:412,412,Lammens,MUN,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:426,426,B.Fernandes,MUN,MID,422685.0,Bruno Fernandes,surname_or_fuzzy_team,0.93,statfootdb_matched,1228.0,Bruno Fernandes,statfootdb,understat_np_xg
+fplreview:418,418,Maguire,MUN,DEF,255610.0,Harry Maguire,surname_or_fuzzy_team,0.93,statfootdb_matched,1687.0,Harry Maguire,statfootdb,understat_np_xg
+fplreview:423,423,Shaw,MUN,DEF,362694.0,Luke Shaw,surname_or_fuzzy_team,0.93,statfootdb_matched,1006.0,Luke Shaw,statfootdb,understat_np_xg
+fplreview:417,417,Dalot,MUN,DEF,751550.0,Diogo Dalot,surname_or_fuzzy_team,0.93,statfootdb_matched,7281.0,Diogo Dalot,statfootdb,understat_np_xg
+fplreview:427,427,Mbeumo,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:162,162,Andrey Santos,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:428,428,Cunha,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:431,431,Amad,MUN,MID,1070052.0,Amad,exact_name_team,1.0,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:421,421,Heaven,MUN,DEF,1559639.0,Ayden Heaven,surname_or_fuzzy_team,0.93,statfootdb_matched,13080.0,Ayden Heaven,statfootdb,understat_np_xg
+fplreview:43,43,Tielemans,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:415,415,Dorgu,MUN,MID,1526560.0,Patrick Dorgu,surname_or_fuzzy_team,0.93,statfootdb_matched,11944.0,Patrick Dorgu,statfootdb,understat_np_xg
+fplreview:420,420,Yoro,MUN,DEF,1358581.0,Leny Yoro,surname_or_fuzzy_team,0.93,statfootdb_matched,10564.0,Leny Yoro,statfootdb,understat_np_xg
+fplreview:430,430,Mount,MUN,MID,750032.0,Mason Mount,surname_or_fuzzy_team,0.93,statfootdb_matched,7768.0,Mason Mount,statfootdb,understat_np_xg
+fplreview:432,432,Mainoo,MUN,MID,1292810.0,Kobbie Mainoo,surname_or_fuzzy_team,0.93,statfootdb_matched,11174.0,Kobbie Mainoo,statfootdb,understat_np_xg
+fplreview:422,422,Mazraoui,MUN,DEF,775539.0,Noussair Mazraoui,surname_or_fuzzy_team,0.93,statfootdb_matched,10696.0,Noussair Mazraoui,statfootdb,understat_np_xg
+fplreview:429,429,Rashford,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:439,439,Šeško,MUN,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:440,440,Zirkzee,MUN,FWD,950830.0,Joshua Zirkzee,surname_or_fuzzy_team,0.93,statfootdb_matched,8044.0,Joshua Zirkzee,statfootdb,understat_np_xg
+fplreview:419,419,Martinez,MUN,DEF,847983.0,Lisandro Martinez,surname_or_fuzzy_team,0.93,statfootdb_matched,10802.0,Lisandro Martínez,statfootdb,understat_np_xg
+fplreview:436,436,Collyer,MUN,MID,1421810.0,Toby Collyer,surname_or_fuzzy_team,0.93,statfootdb_matched,12461.0,Toby Collyer,statfootdb,understat_np_xg
+fplreview:435,435,Lacey,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:424,424,Amass,MUN,DEF,1430832.0,Harry Amass,surname_or_fuzzy_team,0.93,statfootdb_matched,12559.0,Harry Amass,statfootdb,understat_np_xg
+fplreview:434,434,J.Fletcher,MUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:441,441,Obi,MUN,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:325,325,Darlow,MUN,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:413,413,Bayindir,MUN,GKP,866967.0,Altay Bayindir,surname_or_fuzzy_team,0.93,statfootdb_matched,12054.0,Altay Bayindir,statfootdb,understat_np_xg
+fplreview:414,414,Heaton,MUN,GKP,,,,0.0,fplreview_only,,,,
+fplreview:416,416,De Ligt,MUN,DEF,769895.0,Matthijs de Ligt,surname_or_fuzzy_team,0.93,statfootdb_matched,7902.0,Matthijs de Ligt,statfootdb,understat_np_xg
+fplreview:425,425,Fredricson,MUN,DEF,1403351.0,Tyler Fredricson,surname_or_fuzzy_team,0.93,statfootdb_matched,13467.0,Tyler Fredricson,statfootdb,understat_np_xg
+fplreview:433,433,Ugarte,MUN,MID,1035614.0,Manuel Ugarte,surname_or_fuzzy_team,0.93,statfootdb_matched,11766.0,Manuel Ugarte,statfootdb,understat_np_xg
+fplreview:437,437,Bendito Mantato,MUN,MID,,,,0.0,fplreview_only,,,,
+fplreview:438,438,Fletcher,MUN,MID,,,,0.0,fplreview_only,,,,
+fplreview:10066,10066,Dermot Mee,MUN,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10067,10067,Daniel Gore,MUN,MID,,,,0.0,fplreview_only,,,,
+fplreview:10068,10068,Enzo Kana Biyik,MUN,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10069,10069,Ethan Wheatley,MUN,FWD,,,,0.0,fplreview_only,,,,
+fplreview:445,445,Thiaw,NEW,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:449,449,Hall,NEW,DEF,1197655.0,Lewis Hall,surname_or_fuzzy_team,0.93,statfootdb_matched,10216.0,Lewis Hall,statfootdb,understat_np_xg
+fplreview:567,567,Horníček,NEW,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:447,447,Botman,NEW,DEF,956682.0,Sven Botman,surname_or_fuzzy_team,0.93,statfootdb_matched,8635.0,Sven Botman,statfootdb,understat_np_xg
+fplreview:454,454,Elanga,NEW,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:458,458,Joelinton,NEW,MID,535936.0,Joelinton,exact_name_team,1.0,statfootdb_matched,87.0,Joelinton,statfootdb,understat_np_xg
+fplreview:453,453,Barnes,NEW,MID,760359.0,Harvey Barnes,surname_or_fuzzy_team,0.93,statfootdb_matched,6681.0,Harvey Barnes,statfootdb,understat_np_xg
+fplreview:463,463,Woltemade,NEW,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:559,559,Bamba,NEW,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:450,450,Livramento,NEW,DEF,1107910.0,Valentino Livramento,surname_or_fuzzy_team,0.93,statfootdb_matched,9512.0,Valentino Livramento,statfootdb,understat_np_xg
+fplreview:462,462,Steur,NEW,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:464,464,Wissa,NEW,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:456,456,J.Ramsey,NEW,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:465,465,Osula,NEW,FWD,1258092.0,William Osula,surname_or_fuzzy_team,0.93,statfootdb_matched,9556.0,William Osula,statfootdb,understat_np_xg
+fplreview:461,461,Touré,NEW,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:448,448,Burn,NEW,DEF,188058.0,Daniel Burn,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:10071,10071,Leo Shahar,NEW,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:460,460,Willock,NEW,MID,860975.0,Joseph Willock,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:457,457,J.Murphy,NEW,MID,521148.0,Jacob Murphy,surname_or_fuzzy_team,0.93,statfootdb_matched,6063.0,Jacob Murphy,statfootdb,understat_np_xg
+fplreview:446,446,Schär,NEW,DEF,189982.0,Fabian Schär,surname_or_fuzzy_team,0.93,statfootdb_matched,76.0,Fabian Schär,statfootdb,understat_np_xg
+fplreview:442,442,Pope,NEW,GKP,280484.0,Nick Pope,surname_or_fuzzy_team,0.93,statfootdb_matched,5552.0,Nick Pope,statfootdb,understat_np_xg
+fplreview:459,459,L.Miley,NEW,MID,1296763.0,Lewis Miley,surname_or_fuzzy_team,0.93,statfootdb_matched,11386.0,Lewis Miley,statfootdb,understat_np_xg
+fplreview:443,443,Gillespie,NEW,GKP,,,,0.0,fplreview_only,,,,
+fplreview:444,444,Jaouen,NEW,GKP,,,,0.0,fplreview_only,,,,
+fplreview:451,451,A.Murphy,NEW,DEF,521148.0,Jacob Murphy,surname_or_fuzzy_team,0.93,statfootdb_matched,6063.0,Jacob Murphy,statfootdb,understat_np_xg
+fplreview:466,466,Neave,NEW,FWD,,,,0.0,fplreview_only,,,,
+fplreview:10073,10073,Alfie Harrison,NEW,FWD,,,,0.0,fplreview_only,,,,
+fplreview:467,467,Sels,NFO,GKP,181069.0,Matz Sels,surname_or_fuzzy_team,0.93,statfootdb_matched,6903.0,Matz Sels,statfootdb,understat_np_xg
+fplreview:471,471,Milenković,NFO,DEF,766611.0,Nikola Milenkovic,surname_or_fuzzy_team,0.93,statfootdb_matched,6174.0,Nikola Milenkovic,statfootdb,understat_np_xg
+fplreview:469,469,N.Williams,NFO,DEF,1078788.0,Neco Williams,surname_or_fuzzy_team,0.93,statfootdb_matched,8204.0,Neco Williams,statfootdb,understat_np_xg
+fplreview:473,473,Aina,NFO,DEF,682548.0,Ola Aina,surname_or_fuzzy_team,0.93,statfootdb_matched,725.0,Ola Aina,statfootdb,understat_np_xg
+fplreview:480,480,Gibbs-White,NFO,MID,789502.0,Morgan Gibbs-White,surname_or_fuzzy_team,0.93,statfootdb_matched,6857.0,Morgan Gibbs-White,statfootdb,understat_np_xg
+fplreview:488,488,Sangaré,NFO,MID,795371.0,Ibrahim Sangaré,surname_or_fuzzy_team,0.93,statfootdb_matched,5722.0,Ibrahim Sangare,statfootdb,understat_np_xg
+fplreview:472,472,Murillo,NFO,DEF,1458711.0,Murillo,exact_name_team,1.0,statfootdb_matched,12123.0,Murillo,statfootdb,understat_np_xg
+fplreview:491,491,Igor Jesus,NFO,FWD,,,,0.0,fplreview_only,13778.0,Igor Jesus,fplreview_supplement,understat_np_xg
+fplreview:482,482,Hudson-Odoi,NFO,MID,846383.0,Callum Hudson-Odoi,surname_or_fuzzy_team,0.93,statfootdb_matched,6456.0,Callum Hudson-Odoi,statfootdb,understat_np_xg
+fplreview:581,581,Diomande,NFO,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:486,486,McAtee,NFO,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:558,558,Schlager,NFO,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:474,474,Jair Cunha,NFO,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:484,484,Hutchinson,NFO,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:490,490,Wood,NFO,FWD,169719.0,Chris Wood,surname_or_fuzzy_team,0.93,statfootdb_matched,4456.0,Chris Wood,statfootdb,understat_np_xg
+fplreview:470,470,Morato,NFO,DEF,1053838.0,Morato,exact_name_team,1.0,statfootdb_matched,13068.0,Morato,statfootdb,understat_np_xg
+fplreview:487,487,Dominguez,NFO,MID,827315.0,Nicolás Dominguez,surname_or_fuzzy_team,0.93,statfootdb_matched,8252.0,Nicolás Domínguez,statfootdb,understat_np_xg
+fplreview:485,485,Bakwa,NFO,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:489,489,Yates,NFO,MID,775614.0,Ryan Yates,surname_or_fuzzy_team,0.93,statfootdb_matched,11003.0,Ryan Yates,statfootdb,understat_np_xg
+fplreview:475,475,Savona,NFO,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:483,483,Ndoye,NFO,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:478,478,Netz,NFO,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:492,492,Awoniyi,NFO,FWD,643717.0,Taiwo Awoniyi,surname_or_fuzzy_team,0.93,statfootdb_matched,7814.0,Taiwo Awoniyi,statfootdb,understat_np_xg
+fplreview:493,493,Kalimuendo,NFO,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:468,468,John,NFO,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:476,476,O.Richards,NFO,DEF,,,,0.0,fplreview_only,,,,
+fplreview:477,477,Abbott,NFO,DEF,,,,0.0,fplreview_only,,,,
+fplreview:479,479,Bindon,NFO,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10074,10074,Eric da Silva Moreira,NFO,DEF,1487909.0,Eric da Silva Moreira,exact_name_team,1.0,statfootdb_matched,12765.0,Eric da Silva Moreira,statfootdb,understat_np_xg
+fplreview:10075,10075,Grady McDonnell,NFO,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10076,10076,Jimmy Sinclair,NFO,FWD,,,,0.0,fplreview_only,,,,
+fplreview:529,529,Roefs,SUN,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:544,544,Xhaka,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:542,542,E.Le Fée,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:536,536,Reinildo,SUN,DEF,,,,0.0,fplreview_only,7432.0,Reinildo,fplreview_supplement,understat_np_xg
+fplreview:545,545,Sadiki,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:532,532,Ballard,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:552,552,Brobbey,SUN,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:534,534,Hume,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:541,541,Meunier,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:551,551,Angulo,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:539,539,O'Nien,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:533,533,Mukiele,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:535,535,Alderete,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:543,543,Diarra,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:549,549,Talbi,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:553,553,Isidor,SUN,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:548,548,Rigg,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:550,550,Jocelin.T,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:546,546,Adingra,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:547,547,Mundle,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:537,537,Seelt,SUN,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:531,531,Ellborg,SUN,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:530,530,Patterson,SUN,GKP,,,,0.0,fplreview_only,,,,
+fplreview:538,538,Hjelde,SUN,DEF,,,,0.0,fplreview_only,,,,
+fplreview:540,540,Masuaku,SUN,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10077,10077,Simon Moore,SUN,GKP,,,,0.0,fplreview_only,,,,
+fplreview:10078,10078,Ajibola Alese,SUN,DEF,,,,0.0,fplreview_only,,,,
+fplreview:10079,10079,Alan Browne,SUN,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10080,10080,Luís Semedo,SUN,FWD,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:10082,10082,Abdoullah Ba,SUN,FWD,,,,0.0,fplreview_only,,,,
+fplreview:496,496,Kinsky,TOT,GKP,1341475.0,Antonin Kinsky,surname_or_fuzzy_team,0.93,statfootdb_matched,13348.0,Antonín Kinsky,statfootdb,understat_np_xg
+fplreview:525,525,Fernandes,TOT,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:455,455,Tonali,TOT,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:503,503,Van de Ven,TOT,DEF,1097466.0,Micky van de Ven,surname_or_fuzzy_team,0.93,statfootdb_matched,10050.0,Micky van de Ven,statfootdb,understat_np_xg
+fplreview:112,112,Van Hecke,TOT,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:514,514,Tel,TOT,MID,1288111.0,Mathys Tel,surname_or_fuzzy_team,0.93,statfootdb_matched,9780.0,Mathys Tel,statfootdb,understat_np_xg
+fplreview:499,499,Pedro Porro,TOT,DEF,941573.0,Pedro Porro,exact_name_team,1.0,statfootdb_matched,6912.0,Pedro Porro,statfootdb,understat_np_xg
+fplreview:527,527,Richarlison,TOT,FWD,654908.0,Richarlison,exact_name_team,1.0,statfootdb_matched,6026.0,Richarlison,statfootdb,understat_np_xg
+fplreview:519,519,Gallagher,TOT,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:502,502,Robertson,TOT,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:512,512,Kudus,TOT,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:526,526,Solanke,TOT,FWD,591734.0,Dominic Solanke,surname_or_fuzzy_team,0.93,statfootdb_matched,1679.0,Dominic Solanke,statfootdb,understat_np_xg
+fplreview:498,498,Senesi,TOT,DEF,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:515,515,Maddison,TOT,MID,493165.0,James Maddison,surname_or_fuzzy_team,0.93,statfootdb_matched,6818.0,James Maddison,statfootdb,understat_np_xg
+fplreview:522,522,Gray,TOT,MID,1323305.0,Archie Gray,surname_or_fuzzy_team,0.93,statfootdb_matched,10184.0,Archie Gray,statfootdb,understat_np_xg
+fplreview:506,506,Udogie,TOT,DEF,1052898.0,Destiny Udogie,surname_or_fuzzy_team,0.93,statfootdb_matched,,,statfootdb,statfootdb_goals
+fplreview:520,520,Bergvall,TOT,MID,1386775.0,Lucas Bergvall,surname_or_fuzzy_team,0.93,statfootdb_matched,12912.0,Lucas Bergvall,statfootdb,understat_np_xg
+fplreview:518,518,P.M.Sarr,TOT,MID,1107280.0,Pape Sarr,surname_or_fuzzy_team,0.93,statfootdb_matched,9021.0,Pape Sarr,statfootdb,understat_np_xg
+fplreview:516,516,Bentancur,TOT,MID,620618.0,Rodrigo Bentancur,surname_or_fuzzy_team,0.93,statfootdb_matched,6108.0,Rodrigo Bentancur,statfootdb,understat_np_xg
+fplreview:501,501,Danso,TOT,DEF,754126.0,Kevin Danso,surname_or_fuzzy_team,0.93,statfootdb_matched,5261.0,Kevin Danso,statfootdb,understat_np_xg
+fplreview:523,523,Moore,TOT,MID,1407250.0,Mikey Moore,surname_or_fuzzy_team,0.93,statfootdb_matched,12603.0,Mikey Moore,statfootdb,understat_np_xg
+fplreview:521,521,Kulusevski,TOT,MID,935379.0,Dejan Kulusevski,surname_or_fuzzy_team,0.93,statfootdb_matched,6691.0,Dejan Kulusevski,statfootdb,understat_np_xg
+fplreview:528,528,Scarlett,TOT,FWD,1113753.0,Dane Scarlett,surname_or_fuzzy_team,0.93,statfootdb_matched,9332.0,Dane Scarlett,statfootdb,understat_np_xg
+fplreview:511,511,Souza,TOT,DEF,,,,0.0,fplreview_only,14410.0,Souza,fplreview_supplement,understat_np_xg
+fplreview:508,508,Davies,TOT,DEF,276121.0,Ben Davies,surname_or_fuzzy_team,0.93,statfootdb_matched,660.0,Ben Davies,statfootdb,understat_np_xg
+fplreview:494,494,Vicario,TOT,GKP,538501.0,Guglielmo Vicario,surname_or_fuzzy_team,0.93,statfootdb_matched,8858.0,Guglielmo Vicario,statfootdb,understat_np_xg
+fplreview:495,495,Austin,TOT,GKP,862993.0,Brandon Austin,surname_or_fuzzy_team,0.93,statfootdb_matched,8093.0,Brandon Austin,statfootdb,understat_np_xg
+fplreview:497,497,Dubravka,TOT,GKP,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback
+fplreview:500,500,Romero,TOT,DEF,789066.0,Cristian Romero,surname_or_fuzzy_team,0.93,statfootdb_matched,7218.0,Cristian Romero,statfootdb,understat_np_xg
+fplreview:505,505,Spence,TOT,DEF,894803.0,Djed Spence,surname_or_fuzzy_team,0.93,statfootdb_matched,10764.0,Djed Spence,statfootdb,understat_np_xg
+fplreview:507,507,Phillips,TOT,DEF,,,,0.0,fplreview_only,,,,
+fplreview:509,509,Byfield,TOT,DEF,,,,0.0,fplreview_only,,,,
+fplreview:510,510,Rowswell,TOT,DEF,,,,0.0,fplreview_only,,,,
+fplreview:513,513,Xavi,TOT,MID,,,,0.0,fplreview_only,,,,
+fplreview:517,517,Odobert,TOT,MID,1341387.0,Wilson Odobert,surname_or_fuzzy_team,0.93,statfootdb_matched,10822.0,Wilson Odobert,statfootdb,understat_np_xg
+fplreview:524,524,Olusesi,TOT,MID,,,,0.0,fplreview_only,,,fplreview_supplement,position_fallback

@@ -49,15 +49,15 @@
     {
       "id": "sot-model",
       "title": "Premier League SOT Value Model",
-      "status": "DATA NEEDED",
-      "status_class": "warn",
-      "summary": "Manual EV scanner plus research lab; currently building data-source and schema foundations.",
+      "status": "LIVE FGS OUTPUT",
+      "status_class": "ok",
+      "summary": "Manual SOT scanner plus no-market and market-implied Premier League FGS research outputs.",
       "project_url": "projects/sot-model/index.html",
       "output_url": "projects/sot-model/output.html",
       "last_research": [
+        "1. No-market FGS weekly model + market-implied transcript comparison page",
         "1. StatsBomb Open Data SOT ETL spike",
-        "2. Manual promotion/exchange snapshot schema hardening",
-        "3. SOT data-source feasibility audit"
+        "2. Manual promotion/exchange snapshot schema hardening"
       ],
       "latest_experiments": [
         "Added Hermes project rules and lightweight autonomous lab workflow.",
@@ -67,6 +67,11 @@
         "Added `research/sources/2026-07-19-open-sot-data-scout.md` with provenance/terms caveats and concrete next actions."
       ],
       "pages": [
+        {
+          "label": "FGS model",
+          "url": "projects/sot-model/fgs.html",
+          "kind": "model_output"
+        },
         {
           "label": "Status / research",
           "url": "projects/sot-model/index.html",
