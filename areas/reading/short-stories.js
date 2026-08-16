@@ -33,7 +33,10 @@ function render(){
   root.innerHTML = filtered.map(story => {
     const fb = storyFeedback(story.id);
     const tags = (story.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join(' ');
-    return `<article class="card story ${fb.read?'read':''}"><div class="story-head"><div><h2>${esc(story.title)}</h2><p class="muted">${esc(story.author)}${story.year?' · '+esc(story.year):''} · ${esc(story.length||'')}</p></div><label class="read-toggle"><input type="checkbox" data-id="${esc(story.id)}" class="readBox" ${fb.read?'checked':''}> Read</label></div><p>${esc(story.fit)}</p><p>${tags}</p>${starHtml(story)}<p><a href="${esc(story.source_url)}" target="_blank" rel="noopener">${esc(story.source_label || 'Source')}</a></p><textarea class="noteBox" data-id="${esc(story.id)}" placeholder="Optional note for future recommendations">${esc(fb.note || '')}</textarea></article>`;
+    const status = story.recommendation_status ? `<span class="tag status-${esc(story.recommendation_status)}">${esc(story.recommendation_status.replaceAll('_',' '))}</span>` : '';
+    const dates = (story.recommended_dates||[]).length ? `<p class="muted">Recommended: ${esc(story.recommended_dates.join(', '))}</p>` : '';
+    const note = story.recommendation_note ? `<p class="muted">${esc(story.recommendation_note)}</p>` : '';
+    return `<article class="card story ${fb.read?'read':''} ${story.recommendation_status==='excluded_disliked_history'?'excluded':''}"><div class="story-head"><div><h2>${esc(story.title)}</h2><p class="muted">${esc(story.author)}${story.year?' · '+esc(story.year):''} · ${esc(story.length||'')}</p>${dates}</div><label class="read-toggle"><input type="checkbox" data-id="${esc(story.id)}" class="readBox" ${fb.read?'checked':''}> Read</label></div><p>${status} ${tags}</p><p>${esc(story.fit)}</p>${note}${starHtml(story)}<p><a href="${esc(story.source_url)}" target="_blank" rel="noopener">${esc(story.source_label || 'Source')}</a></p><textarea class="noteBox" data-id="${esc(story.id)}" placeholder="Optional note for future recommendations">${esc(fb.note || '')}</textarea></article>`;
   }).join('') || '<section class="card"><p>No stories match the current filters.</p></section>';
   const vals = Object.values(ratings);
   const read = vals.filter(v=>v.read).length;

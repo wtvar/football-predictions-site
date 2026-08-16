@@ -1,36 +1,27 @@
 {
-  "generated_at": "2026-08-16T00:31:28+00:00",
+  "generated_at": "2026-08-16T15:49:21+00:00",
   "stories": [
     {
-      "id": "ted-chiang-merchant-alchemist-gate",
-      "title": "The Merchant and the Alchemist's Gate",
-      "author": "Ted Chiang",
-      "year": 2007,
-      "fit": "Clear, elegant speculative premise with an emotionally satisfying narrative loop.",
-      "length": "Novella / long short story",
+      "id": "jorge-luis-borges-library-of-babel",
+      "title": "The Library of Babel",
+      "author": "Jorge Luis Borges",
+      "year": 1941,
+      "fit": "Previously recommended on 2026-06-08: canonical philosophical/speculative classic; strong idea-driven fit after Ted Chiang.",
+      "length": "Short story, about 15\u201320 minutes",
       "tags": [
+        "previously recommended",
+        "classic",
         "speculative",
-        "time travel",
-        "literary",
-        "clear narrative"
+        "philosophical",
+        "Borges"
       ],
-      "source_label": "Publisher / anthology info",
-      "source_url": "https://en.wikipedia.org/wiki/The_Merchant_and_the_Alchemist%27s_Gate"
-    },
-    {
-      "id": "ted-chiang-division-by-zero",
-      "title": "Division by Zero",
-      "author": "Ted Chiang",
-      "year": 1991,
-      "fit": "Compact Chiang-style idea story: mathematical collapse mirrored by personal crisis.",
-      "length": "Short story",
-      "tags": [
-        "speculative",
-        "mathematics",
-        "literary"
+      "source_label": "Collected in Ficciones / Labyrinths",
+      "source_url": "https://en.wikipedia.org/wiki/The_Library_of_Babel",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-06-08"
       ],
-      "source_label": "Author bibliography",
-      "source_url": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others"
+      "recommendation_note": "Actual weekly recommendation recovered from Hermes cron history."
     },
     {
       "id": "ken-liu-paper-menagerie",
@@ -40,121 +31,19 @@
       "fit": "Emotionally direct literary/speculative story with a strong human core.",
       "length": "Short story",
       "tags": [
+        "previously recommended",
         "literary",
         "speculative",
         "family",
         "clear narrative"
       ],
       "source_label": "Gizmodo text",
-      "source_url": "https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919"
-    },
-    {
-      "id": "ken-liu-mono-no-aware",
-      "title": "Mono no Aware",
-      "author": "Ken Liu",
-      "year": 2012,
-      "fit": "Accessible, moving science-fiction story about memory, sacrifice, and identity.",
-      "length": "Short story",
-      "tags": [
-        "science fiction",
-        "literary",
-        "diaspora",
-        "clear narrative"
+      "source_url": "https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919",
+      "recommended_dates": [
+        "2026-07-27"
       ],
-      "source_label": "Lightspeed text",
-      "source_url": "https://www.lightspeedmagazine.com/fiction/mono-no-aware/"
-    },
-    {
-      "id": "george-saunders-spiderhead",
-      "title": "Escape from Spiderhead",
-      "author": "George Saunders",
-      "year": 2010,
-      "fit": "Dark, propulsive literary/speculative fiction with a very clear plot.",
-      "length": "Short story",
-      "tags": [
-        "literary",
-        "speculative",
-        "dark",
-        "clear narrative"
-      ],
-      "source_label": "New Yorker page",
-      "source_url": "https://www.newyorker.com/magazine/2010/12/20/escape-from-spiderhead"
-    },
-    {
-      "id": "ray-bradbury-there-will-come-soft-rains",
-      "title": "There Will Come Soft Rains",
-      "author": "Ray Bradbury",
-      "year": 1950,
-      "fit": "Classic short speculative piece: simple surface, haunting aftermath.",
-      "length": "Short story",
-      "tags": [
-        "classic",
-        "science fiction",
-        "post-apocalyptic"
-      ],
-      "source_label": "Wikipedia info",
-      "source_url": "https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)"
-    },
-    {
-      "id": "greg-egan-learning-to-be-me",
-      "title": "Learning to Be Me",
-      "author": "Greg Egan",
-      "year": 1990,
-      "fit": "High-concept identity/philosophy SF, but still built around a clean central premise.",
-      "length": "Short story",
-      "tags": [
-        "science fiction",
-        "identity",
-        "philosophy"
-      ],
-      "source_label": "Author bibliography",
-      "source_url": "https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html"
-    },
-    {
-      "id": "ursula-whitcher-persistence-of-memory",
-      "title": "The Persistence of Memory",
-      "author": "Ursula Whitcher",
-      "year": 2021,
-      "fit": "Short, contemporary speculative/literary piece with an intimate emotional register.",
-      "length": "Short story",
-      "tags": [
-        "speculative",
-        "literary",
-        "memory"
-      ],
-      "source_label": "Uncanny text",
-      "source_url": "https://www.uncannymagazine.com/article/the-persistence-of-memory/"
-    },
-    {
-      "id": "alix-harrow-witch-guide-escape",
-      "title": "A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies",
-      "author": "Alix E. Harrow",
-      "year": 2018,
-      "fit": "Warm, readable fantasy about books, escape, and care.",
-      "length": "Short story",
-      "tags": [
-        "fantasy",
-        "literary",
-        "books",
-        "clear narrative"
-      ],
-      "source_label": "Apex text",
-      "source_url": "https://apex-magazine.com/short-fiction/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/"
-    },
-    {
-      "id": "sam-j-miller-things-with-beards",
-      "title": "Things With Beards",
-      "author": "Sam J. Miller",
-      "year": 2016,
-      "fit": "Character-led speculative horror/SF with strong voice and emotional stakes.",
-      "length": "Short story",
-      "tags": [
-        "speculative",
-        "horror",
-        "literary"
-      ],
-      "source_label": "Clarkesworld text",
-      "source_url": "https://clarkesworldmagazine.com/miller_06_16/"
+      "recommendation_status": "previously_recommended",
+      "recommendation_note": "Actual weekly recommendation."
     },
     {
       "id": "naomi-kritzer-cat-pictures-please",
@@ -164,13 +53,87 @@
       "fit": "Light, funny, very readable AI story with a generous heart.",
       "length": "Short story",
       "tags": [
+        "previously recommended",
         "AI",
         "humorous",
         "speculative",
         "clear narrative"
       ],
       "source_label": "Clarkesworld text",
-      "source_url": "https://clarkesworldmagazine.com/kritzer_01_15/"
+      "source_url": "https://clarkesworldmagazine.com/kritzer_01_15/",
+      "recommended_dates": [
+        "2026-08-03"
+      ],
+      "recommendation_status": "previously_recommended",
+      "recommendation_note": "Actual weekly recommendation."
+    },
+    {
+      "id": "ken-liu-mono-no-aware",
+      "title": "Mono no Aware",
+      "author": "Ken Liu",
+      "year": 2012,
+      "fit": "Accessible, moving science-fiction story about memory, sacrifice, and identity.",
+      "length": "Short story",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "literary",
+        "diaspora",
+        "clear narrative"
+      ],
+      "source_label": "Lightspeed text",
+      "source_url": "https://www.lightspeedmagazine.com/fiction/mono-no-aware/",
+      "recommended_dates": [
+        "2026-08-10"
+      ],
+      "recommendation_status": "previously_recommended",
+      "recommendation_note": "Actual weekly recommendation."
+    },
+    {
+      "id": "ursula-le-guin-omelas-excluded-history",
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "year": 1973,
+      "fit": "Historical record only: this was mistakenly recommended repeatedly and Chris disliked/found the style confusing. Do not recommend again.",
+      "length": "Short story, about 10\u201315 minutes",
+      "tags": [
+        "excluded",
+        "disliked",
+        "previous mistake",
+        "fable",
+        "Le Guin"
+      ],
+      "source_label": "Author/site info",
+      "source_url": "https://www.ursulakleguin.com/the-ones-who-walk-away-from-omelas",
+      "recommendation_status": "excluded_disliked_history",
+      "recommended_dates": [
+        "2026-06-15",
+        "2026-06-22",
+        "2026-06-29",
+        "2026-07-13",
+        "2026-07-20"
+      ],
+      "recommendation_note": "Shown only so the history is not lost; excluded from future recommendations."
+    },
+    {
+      "id": "alix-harrow-witch-guide-escape",
+      "title": "A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies",
+      "author": "Alix E. Harrow",
+      "year": 2018,
+      "fit": "Warm, readable fantasy about books, escape, and care.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "fantasy",
+        "literary",
+        "books",
+        "clear narrative"
+      ],
+      "source_label": "Apex text",
+      "source_url": "https://apex-magazine.com/short-fiction/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
     },
     {
       "id": "andy-duncan-senator-bilbo",
@@ -180,12 +143,156 @@
       "fit": "Strange but legible literary fantasy/satire; useful to test taste boundaries.",
       "length": "Short story",
       "tags": [
+        "new candidate",
         "fantasy",
         "satire",
         "literary"
       ],
       "source_label": "Author/book info",
-      "source_url": "https://en.wikipedia.org/wiki/Beluthahatchie_and_Other_Stories"
+      "source_url": "https://en.wikipedia.org/wiki/Beluthahatchie_and_Other_Stories",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "george-saunders-spiderhead",
+      "title": "Escape from Spiderhead",
+      "author": "George Saunders",
+      "year": 2010,
+      "fit": "Dark, propulsive literary/speculative fiction with a very clear plot.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "literary",
+        "speculative",
+        "dark",
+        "clear narrative"
+      ],
+      "source_label": "New Yorker page",
+      "source_url": "https://www.newyorker.com/magazine/2010/12/20/escape-from-spiderhead",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "greg-egan-learning-to-be-me",
+      "title": "Learning to Be Me",
+      "author": "Greg Egan",
+      "year": 1990,
+      "fit": "High-concept identity/philosophy SF, but still built around a clean central premise.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "science fiction",
+        "identity",
+        "philosophy"
+      ],
+      "source_label": "Author bibliography",
+      "source_url": "https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "ray-bradbury-there-will-come-soft-rains",
+      "title": "There Will Come Soft Rains",
+      "author": "Ray Bradbury",
+      "year": 1950,
+      "fit": "Classic short speculative piece: simple surface, haunting aftermath.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "classic",
+        "science fiction",
+        "post-apocalyptic"
+      ],
+      "source_label": "Wikipedia info",
+      "source_url": "https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "sam-j-miller-things-with-beards",
+      "title": "Things With Beards",
+      "author": "Sam J. Miller",
+      "year": 2016,
+      "fit": "Character-led speculative horror/SF with strong voice and emotional stakes.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "speculative",
+        "horror",
+        "literary"
+      ],
+      "source_label": "Clarkesworld text",
+      "source_url": "https://clarkesworldmagazine.com/miller_06_16/",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "ted-chiang-division-by-zero",
+      "title": "Division by Zero",
+      "author": "Ted Chiang",
+      "year": 1991,
+      "fit": "Compact Chiang-style idea story: mathematical collapse mirrored by personal crisis.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "speculative",
+        "mathematics",
+        "literary"
+      ],
+      "source_label": "Author bibliography",
+      "source_url": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "ted-chiang-merchant-alchemist-gate",
+      "title": "The Merchant and the Alchemist's Gate",
+      "author": "Ted Chiang",
+      "year": 2007,
+      "fit": "Clear, elegant speculative premise with an emotionally satisfying narrative loop.",
+      "length": "Novella / long short story",
+      "tags": [
+        "new candidate",
+        "speculative",
+        "time travel",
+        "literary",
+        "clear narrative"
+      ],
+      "source_label": "Publisher / anthology info",
+      "source_url": "https://en.wikipedia.org/wiki/The_Merchant_and_the_Alchemist%27s_Gate",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
+    },
+    {
+      "id": "ursula-whitcher-persistence-of-memory",
+      "title": "The Persistence of Memory",
+      "author": "Ursula Whitcher",
+      "year": 2021,
+      "fit": "Short, contemporary speculative/literary piece with an intimate emotional register.",
+      "length": "Short story",
+      "tags": [
+        "new candidate",
+        "speculative",
+        "literary",
+        "memory"
+      ],
+      "source_label": "Uncanny text",
+      "source_url": "https://www.uncannymagazine.com/article/the-persistence-of-memory/",
+      "recommended_dates": [],
+      "recommendation_status": "new_candidate",
+      "recommendation_note": "Starter candidate, not recovered as a previous weekly recommendation."
     }
+  ],
+  "notes": [
+    "Previously recommended items were recovered from Hermes session/cron history on 2026-08-16.",
+    "Omelas is retained only as excluded history so it is not recommended again.",
+    "Items marked new_candidate were the initial static-page seed list, not previous weekly recommendations."
   ]
 }
