@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-08-16T00:31:28+00:00",
+  "stories": [
+    {
+      "id": "ted-chiang-merchant-alchemist-gate",
+      "title": "The Merchant and the Alchemist's Gate",
+      "author": "Ted Chiang",
+      "year": 2007,
+      "fit": "Clear, elegant speculative premise with an emotionally satisfying narrative loop.",
+      "length": "Novella / long short story",
+      "tags": [
+        "speculative",
+        "time travel",
+        "literary",
+        "clear narrative"
+      ],
+      "source_label": "Publisher / anthology info",
+      "source_url": "https://en.wikipedia.org/wiki/The_Merchant_and_the_Alchemist%27s_Gate"
+    },
+    {
+      "id": "ted-chiang-division-by-zero",
+      "title": "Division by Zero",
+      "author": "Ted Chiang",
+      "year": 1991,
+      "fit": "Compact Chiang-style idea story: mathematical collapse mirrored by personal crisis.",
+      "length": "Short story",
+      "tags": [
+        "speculative",
+        "mathematics",
+        "literary"
+      ],
+      "source_label": "Author bibliography",
+      "source_url": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others"
+    },
+    {
+      "id": "ken-liu-paper-menagerie",
+      "title": "The Paper Menagerie",
+      "author": "Ken Liu",
+      "year": 2011,
+      "fit": "Emotionally direct literary/speculative story with a strong human core.",
+      "length": "Short story",
+      "tags": [
+        "literary",
+        "speculative",
+        "family",
+        "clear narrative"
+      ],
+      "source_label": "Gizmodo text",
+      "source_url": "https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919"
+    },
+    {
+      "id": "ken-liu-mono-no-aware",
+      "title": "Mono no Aware",
+      "author": "Ken Liu",
+      "year": 2012,
+      "fit": "Accessible, moving science-fiction story about memory, sacrifice, and identity.",
+      "length": "Short story",
+      "tags": [
+        "science fiction",
+        "literary",
+        "diaspora",
+        "clear narrative"
+      ],
+      "source_label": "Lightspeed text",
+      "source_url": "https://www.lightspeedmagazine.com/fiction/mono-no-aware/"
+    },
+    {
+      "id": "george-saunders-spiderhead",
+      "title": "Escape from Spiderhead",
+      "author": "George Saunders",
+      "year": 2010,
+      "fit": "Dark, propulsive literary/speculative fiction with a very clear plot.",
+      "length": "Short story",
+      "tags": [
+        "literary",
+        "speculative",
+        "dark",
+        "clear narrative"
+      ],
+      "source_label": "New Yorker page",
+      "source_url": "https://www.newyorker.com/magazine/2010/12/20/escape-from-spiderhead"
+    },
+    {
+      "id": "ray-bradbury-there-will-come-soft-rains",
+      "title": "There Will Come Soft Rains",
+      "author": "Ray Bradbury",
+      "year": 1950,
+      "fit": "Classic short speculative piece: simple surface, haunting aftermath.",
+      "length": "Short story",
+      "tags": [
+        "classic",
+        "science fiction",
+        "post-apocalyptic"
+      ],
+      "source_label": "Wikipedia info",
+      "source_url": "https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)"
+    },
+    {
+      "id": "greg-egan-learning-to-be-me",
+      "title": "Learning to Be Me",
+      "author": "Greg Egan",
+      "year": 1990,
+      "fit": "High-concept identity/philosophy SF, but still built around a clean central premise.",
+      "length": "Short story",
+      "tags": [
+        "science fiction",
+        "identity",
+        "philosophy"
+      ],
+      "source_label": "Author bibliography",
+      "source_url": "https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html"
+    },
+    {
+      "id": "ursula-whitcher-persistence-of-memory",
+      "title": "The Persistence of Memory",
+      "author": "Ursula Whitcher",
+      "year": 2021,
+      "fit": "Short, contemporary speculative/literary piece with an intimate emotional register.",
+      "length": "Short story",
+      "tags": [
+        "speculative",
+        "literary",
+        "memory"
+      ],
+      "source_label": "Uncanny text",
+      "source_url": "https://www.uncannymagazine.com/article/the-persistence-of-memory/"
+    },
+    {
+      "id": "alix-harrow-witch-guide-escape",
+      "title": "A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies",
+      "author": "Alix E. Harrow",
+      "year": 2018,
+      "fit": "Warm, readable fantasy about books, escape, and care.",
+      "length": "Short story",
+      "tags": [
+        "fantasy",
+        "literary",
+        "books",
+        "clear narrative"
+      ],
+      "source_label": "Apex text",
+      "source_url": "https://apex-magazine.com/short-fiction/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/"
+    },
+    {
+      "id": "sam-j-miller-things-with-beards",
+      "title": "Things With Beards",
+      "author": "Sam J. Miller",
+      "year": 2016,
+      "fit": "Character-led speculative horror/SF with strong voice and emotional stakes.",
+      "length": "Short story",
+      "tags": [
+        "speculative",
+        "horror",
+        "literary"
+      ],
+      "source_label": "Clarkesworld text",
+      "source_url": "https://clarkesworldmagazine.com/miller_06_16/"
+    },
+    {
+      "id": "naomi-kritzer-cat-pictures-please",
+      "title": "Cat Pictures Please",
+      "author": "Naomi Kritzer",
+      "year": 2015,
+      "fit": "Light, funny, very readable AI story with a generous heart.",
+      "length": "Short story",
+      "tags": [
+        "AI",
+        "humorous",
+        "speculative",
+        "clear narrative"
+      ],
+      "source_label": "Clarkesworld text",
+      "source_url": "https://clarkesworldmagazine.com/kritzer_01_15/"
+    },
+    {
+      "id": "andy-duncan-senator-bilbo",
+      "title": "Senator Bilbo",
+      "author": "Andy Duncan",
+      "year": 2001,
+      "fit": "Strange but legible literary fantasy/satire; useful to test taste boundaries.",
+      "length": "Short story",
+      "tags": [
+        "fantasy",
+        "satire",
+        "literary"
+      ],
+      "source_label": "Author/book info",
+      "source_url": "https://en.wikipedia.org/wiki/Beluthahatchie_and_Other_Stories"
+    }
+  ]
+}

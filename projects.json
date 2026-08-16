@@ -44,7 +44,8 @@
           "url": "projects/pl-model/index.html",
           "kind": "project_status"
         }
-      ]
+      ],
+      "area": "Modelling"
     },
     {
       "id": "sot-model",
@@ -81,6 +82,31 @@
           "label": "Output placeholder",
           "url": "projects/sot-model/output.html",
           "kind": "placeholder"
+        }
+      ],
+      "area": "Modelling"
+    },
+    {
+      "id": "reading-short-stories",
+      "area": "Reading",
+      "title": "Short Story Recommendations",
+      "status": "BETA",
+      "status_class": "info",
+      "summary": "A browsable short-story recommendation list with local read/star ratings and exportable feedback.",
+      "project_url": "areas/reading/short-stories.html",
+      "output_url": "areas/reading/short-stories.html",
+      "last_research": [
+        "Clear narrative literary/speculative fiction; avoid repeating Le Guin\u2019s \u201cOmelas\u201d.",
+        "Ratings export can be sent back to Hermes to improve recommendations."
+      ],
+      "latest_experiments": [
+        "Static localStorage-based rating controls added."
+      ],
+      "pages": [
+        {
+          "label": "Short stories",
+          "url": "areas/reading/short-stories.html",
+          "kind": "reading"
         }
       ]
     }
