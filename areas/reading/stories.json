@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:23:50+00:00",
+  "generated_at": "2026-08-17T19:00:50+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -90,6 +90,29 @@
       "recommendation_note": "Actual weekly recommendation."
     },
     {
+      "id": "ted-chiang-exhalation",
+      "title": "Exhalation",
+      "author": "Ted Chiang",
+      "year": 2008,
+      "fit": "A direct hit for Chris's Ted Chiang preference: an elegant, idea-driven SF thought experiment with a concrete mystery, escalating stakes, and an emotionally clear payoff.",
+      "length": "Short story, about 25-35 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "idea-driven",
+        "award winner",
+        "clear narrative"
+      ],
+      "source_label": "Lightspeed Magazine text",
+      "source_url": "https://www.lightspeedmagazine.com/fiction/exhalation/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-08-17"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
       "id": "ursula-le-guin-omelas-excluded-history",
       "title": "The Ones Who Walk Away from Omelas",
       "author": "Ursula K. Le Guin",
@@ -118,7 +141,7 @@
   ],
   "notes": [
     "This page shows recovered/actual Hermes weekly short-story recommendations, plus explicit excluded history.",
-    "Generated seed candidates were removed on 2026-08-16; future items should be added by the weekly recommendation cron or the site update script.",
+    "Future recommendations are added by scripts/add_short_story_recommendation.py from the weekly cron.",
     "Omelas is retained only as excluded history so it is not recommended again."
   ]
 }
