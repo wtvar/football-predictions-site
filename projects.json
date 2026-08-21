@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:55:36+00:00",
+  "generated_at": "2026-08-21T13:50:00+00:00",
   "projects": [
     {
       "id": "pl-model",
@@ -82,6 +82,36 @@
           "label": "Output placeholder",
           "url": "projects/sot-model/output.html",
           "kind": "placeholder"
+        }
+      ],
+      "area": "Modelling"
+    },
+    {
+      "id": "superbru",
+      "title": "Superbru Score Predictor",
+      "status": "PREDICTION",
+      "status_class": "warn",
+      "summary": "Recommended correct-score picks for EPL, Bundesliga, Serie A and Ligue 1, scored to Superbru predictor rules (3pt exact / 1.5 close / 1pt result).",
+      "project_url": "projects/superbru/index.html",
+      "output_url": "projects/superbru/predictions.html",
+      "last_research": [
+        "1. Scoring rules from Superbru Premier League Predictor how-to-play.",
+        "2. Correct-score odds from the-odds-api (pinnacle/betfair preferred)."
+      ],
+      "latest_experiments": [
+        "Top-2 most-popular scorelines with expected points per match.",
+        "Picks favour the 2nd-most-popular score when the crowd gap is large."
+      ],
+      "pages": [
+        {
+          "label": "Predictions",
+          "url": "projects/superbru/predictions.html",
+          "kind": "model_output"
+        },
+        {
+          "label": "Overview",
+          "url": "projects/superbru/index.html",
+          "kind": "project_status"
         }
       ],
       "area": "Modelling"
