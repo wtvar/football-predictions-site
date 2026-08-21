@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T14:16:24+00:00",
+  "generated_at_utc": "2026-08-21T14:38:54+00:00",
   "policy": "PICK = global best-EV scoreline (max expected Superbru points). top2 = most-popular scorelines (odds-implied).",
   "leagues": [
     {
@@ -1275,6 +1275,441 @@
               ],
               "prob": 0.0823,
               "ev": 0.6115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Liga",
+      "sport": "soccer_spain_la_liga",
+      "matches": [
+        {
+          "kickoff": "2026-08-23T19:30",
+          "home": "Elche CF",
+          "away": "Barcelona",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.096,
+            "ev": 1.0585
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                0,
+                2
+              ],
+              "prob": 0.096,
+              "ev": 1.0585
+            },
+            {
+              "score": [
+                1,
+                2
+              ],
+              "prob": 0.0864,
+              "ev": 1.0485
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T19:30",
+          "home": "Espanyol",
+          "away": "Real Madrid",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.1077,
+            "ev": 1.0549
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                0,
+                2
+              ],
+              "prob": 0.1077,
+              "ev": 1.0549
+            },
+            {
+              "score": [
+                0,
+                1
+              ],
+              "prob": 0.1033,
+              "ev": 0.9745
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-26T19:00",
+          "home": "Real Madrid",
+          "away": "Real Sociedad",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2074,
+            "ev": 1.0232
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.2074,
+              "ev": 1.0232
+            },
+            {
+              "score": [
+                0,
+                0
+              ],
+              "prob": 0.1175,
+              "ev": 0.8296
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-27T19:00",
+          "home": "Barcelona",
+          "away": "Athletic Bilbao",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2072,
+            "ev": 1.0054
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.2072,
+              "ev": 1.0054
+            },
+            {
+              "score": [
+                2,
+                2
+              ],
+              "prob": 0.1174,
+              "ev": 0.838
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-27T18:30",
+          "home": "Celta Vigo",
+          "away": "CA Osasuna",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2033,
+            "ev": 0.9739
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.2033,
+              "ev": 0.9739
+            },
+            {
+              "score": [
+                0,
+                0
+              ],
+              "prob": 0.1435,
+              "ev": 0.8435
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-25T19:00",
+          "home": "Valencia",
+          "away": "Real Betis",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.1105,
+            "ev": 0.963
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.181,
+              "ev": 0.8771
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1313,
+              "ev": 0.9453
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T15:00",
+          "home": "Athletic Bilbao",
+          "away": "Sevilla",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.1105,
+            "ev": 0.9347
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1316,
+              "ev": 0.9104
+            },
+            {
+              "score": [
+                2,
+                0
+              ],
+              "prob": 0.1105,
+              "ev": 0.9347
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-24T17:30",
+          "home": "CA Osasuna",
+          "away": "Levante",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.0949,
+            "ev": 0.8731
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1122,
+              "ev": 0.534
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1101,
+              "ev": 0.8417
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-23T15:00",
+          "home": "Atl\u00e9tico Madrid",
+          "away": "Villarreal",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0899,
+            "ev": 0.8385
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.11,
+              "ev": 0.5187
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.0959,
+              "ev": 0.7926
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-21T19:00",
+          "home": "Real Betis",
+          "away": "Real Sociedad",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0902,
+            "ev": 0.7879
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1201,
+              "ev": 0.5616
+            },
+            {
+              "score": [
+                2,
+                1
+              ],
+              "prob": 0.0902,
+              "ev": 0.7879
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-23T17:30",
+          "home": "Getafe",
+          "away": "Real Racing Club de Santander",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              1,
+              0
+            ],
+            "prob": 0.1335,
+            "ev": 0.787
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1339,
+              "ev": 0.6565
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1335,
+              "ev": 0.787
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-24T19:30",
+          "home": "M\u00e1laga",
+          "away": "Deportivo La Coru\u00f1a",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              1,
+              0
+            ],
+            "prob": 0.1145,
+            "ev": 0.6929
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1341,
+              "ev": 0.6329
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1145,
+              "ev": 0.6929
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T17:30",
+          "home": "Valencia",
+          "away": "Celta Vigo",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0777,
+            "ev": 0.685
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1272,
+              "ev": 0.5994
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1018,
+              "ev": 0.6826
             }
           ]
         }
