@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-21T12:52:50+00:00",
-  "policy": "Top two most-popular correct scores implied from bookmaker odds with expected points.",
+  "generated_at_utc": "2026-08-21T14:16:24+00:00",
+  "policy": "PICK = global best-EV scoreline (max expected Superbru points). top2 = most-popular scorelines (odds-implied).",
   "leagues": [
     {
       "name": "Premier League",
@@ -11,7 +11,15 @@
           "home": "Arsenal",
           "away": "Coventry City",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.1367,
+            "ev": 1.2528
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -36,7 +44,15 @@
           "home": "Hull City",
           "away": "Manchester United",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.1121,
+            "ev": 1.0912
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -61,7 +77,15 @@
           "home": "Manchester City",
           "away": "Bournemouth",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0867,
+            "ev": 0.9519
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -82,136 +106,19 @@
           ]
         },
         {
-          "kickoff": "2026-08-22T14:00",
-          "home": "Ipswich Town",
-          "away": "Sunderland",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1295,
-              "ev": 0.5978
-            },
-            {
-              "score": [
-                0,
-                1
-              ],
-              "prob": 0.0836,
-              "ev": 0.6102
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-22T14:00",
-          "home": "Nottingham Forest",
-          "away": "Leeds United",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1216,
-              "ev": 0.5682
-            },
-            {
-              "score": [
-                1,
-                0
-              ],
-              "prob": 0.0859,
-              "ev": 0.6707
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-22T14:00",
-          "home": "Everton",
-          "away": "Crystal Palace",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1192,
-              "ev": 0.5616
-            },
-            {
-              "score": [
-                1,
-                0
-              ],
-              "prob": 0.09,
-              "ev": 0.699
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-23T13:00",
-          "home": "Brighton and Hove Albion",
-          "away": "Aston Villa",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1125,
-              "ev": 0.5364
-            },
-            {
-              "score": [
-                2,
-                1
-              ],
-              "prob": 0.0821,
-              "ev": 0.7243
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-22T16:30",
-          "home": "Brentford",
-          "away": "Tottenham Hotspur",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1122,
-              "ev": 0.5276
-            },
-            {
-              "score": [
-                2,
-                1
-              ],
-              "prob": 0.0768,
-              "ev": 0.6624
-            }
-          ]
-        },
-        {
           "kickoff": "2026-08-24T19:00",
           "home": "Fulham",
           "away": "Chelsea",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0873,
+            "ev": 0.8084
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -236,7 +143,15 @@
           "home": "Newcastle United",
           "away": "Liverpool",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0843,
+            "ev": 0.7997
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -255,6 +170,171 @@
               "ev": 0.7997
             }
           ]
+        },
+        {
+          "kickoff": "2026-08-22T14:00",
+          "home": "Everton",
+          "away": "Crystal Palace",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0827,
+            "ev": 0.7356
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1192,
+              "ev": 0.5616
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.09,
+              "ev": 0.699
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-23T13:00",
+          "home": "Brighton and Hove Albion",
+          "away": "Aston Villa",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0821,
+            "ev": 0.7243
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1125,
+              "ev": 0.5364
+            },
+            {
+              "score": [
+                2,
+                1
+              ],
+              "prob": 0.0821,
+              "ev": 0.7243
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T14:00",
+          "home": "Nottingham Forest",
+          "away": "Leeds United",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0808,
+            "ev": 0.709
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1216,
+              "ev": 0.5682
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.0859,
+              "ev": 0.6707
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T16:30",
+          "home": "Brentford",
+          "away": "Tottenham Hotspur",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0768,
+            "ev": 0.6624
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1122,
+              "ev": 0.5276
+            },
+            {
+              "score": [
+                2,
+                1
+              ],
+              "prob": 0.0768,
+              "ev": 0.6624
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-22T14:00",
+          "home": "Ipswich Town",
+          "away": "Sunderland",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0751,
+            "ev": 0.6367
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1295,
+              "ev": 0.5978
+            },
+            {
+              "score": [
+                0,
+                1
+              ],
+              "prob": 0.0836,
+              "ev": 0.6102
+            }
+          ]
         }
       ]
     },
@@ -267,7 +347,15 @@
           "home": "Elversberg",
           "away": "Bayer Leverkusen",
           "book": "williamhill",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.1139,
+            "ev": 1.1611
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -288,11 +376,151 @@
           ]
         },
         {
+          "kickoff": "2026-08-29T16:30",
+          "home": "Borussia Dortmund",
+          "away": "Hamburger SV",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2078,
+            "ev": 1.0174
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.2078,
+              "ev": 1.0174
+            },
+            {
+              "score": [
+                0,
+                0
+              ],
+              "prob": 0.1161,
+              "ev": 0.8218
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-29T13:30",
+          "home": "1. FC K\u00f6ln",
+          "away": "TSG Hoffenheim",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.1118,
+            "ev": 1.0118
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1547,
+              "ev": 0.7603
+            },
+            {
+              "score": [
+                2,
+                1
+              ],
+              "prob": 0.1118,
+              "ev": 1.0118
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-29T13:30",
+          "home": "Union Berlin",
+          "away": "Eintracht Frankfurt",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.1099,
+            "ev": 0.9734
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.169,
+              "ev": 0.8335
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1099,
+              "ev": 0.9116
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-29T13:30",
+          "home": "FSV Mainz 05",
+          "away": "SC Paderborn",
+          "book": "williamhill",
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2013,
+            "ev": 0.9708
+          },
+          "is_value_pick": false,
+          "top2": [
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.2013,
+              "ev": 0.9708
+            },
+            {
+              "score": [
+                1,
+                0
+              ],
+              "prob": 0.1084,
+              "ev": 0.8382
+            }
+          ]
+        },
+        {
           "kickoff": "2026-08-30T15:30",
           "home": "Augsburg",
           "away": "FC Schalke 04",
           "book": "williamhill",
-          "pick_index": 1,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.114,
+            "ev": 0.9471
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -317,7 +545,15 @@
           "home": "SC Freiburg",
           "away": "Werder Bremen",
           "book": "williamhill",
-          "pick_index": 1,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.1158,
+            "ev": 0.9407
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -339,110 +575,18 @@
         },
         {
           "kickoff": "2026-08-29T13:30",
-          "home": "Union Berlin",
-          "away": "Eintracht Frankfurt",
-          "book": "williamhill",
-          "pick_index": 1,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.169,
-              "ev": 0.8335
-            },
-            {
-              "score": [
-                1,
-                0
-              ],
-              "prob": 0.1099,
-              "ev": 0.9116
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-28T18:30",
-          "home": "Bayern Munich",
-          "away": "VfB Stuttgart",
-          "book": "williamhill",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.1634,
-              "ev": 0.8767
-            },
-            {
-              "score": [
-                2,
-                2
-              ],
-              "prob": 0.1416,
-              "ev": 0.8458
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-29T13:30",
-          "home": "FSV Mainz 05",
-          "away": "SC Paderborn",
-          "book": "williamhill",
-          "pick_index": 1,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.2013,
-              "ev": 0.9708
-            },
-            {
-              "score": [
-                1,
-                0
-              ],
-              "prob": 0.1084,
-              "ev": 0.8382
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-29T16:30",
-          "home": "Borussia Dortmund",
-          "away": "Hamburger SV",
-          "book": "williamhill",
-          "pick_index": 1,
-          "top2": [
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.2078,
-              "ev": 1.0174
-            },
-            {
-              "score": [
-                0,
-                0
-              ],
-              "prob": 0.1161,
-              "ev": 0.8218
-            }
-          ]
-        },
-        {
-          "kickoff": "2026-08-29T13:30",
           "home": "RB Leipzig",
           "away": "Borussia Monchengladbach",
           "book": "williamhill",
-          "pick_index": 1,
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.1861,
+            "ev": 0.9251
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -463,27 +607,35 @@
           ]
         },
         {
-          "kickoff": "2026-08-29T13:30",
-          "home": "1. FC K\u00f6ln",
-          "away": "TSG Hoffenheim",
+          "kickoff": "2026-08-28T18:30",
+          "home": "Bayern Munich",
+          "away": "VfB Stuttgart",
           "book": "williamhill",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.1634,
+            "ev": 0.8767
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.1547,
-              "ev": 0.7603
+              "prob": 0.1634,
+              "ev": 0.8767
             },
             {
               "score": [
                 2,
-                1
+                2
               ],
-              "prob": 0.1118,
-              "ev": 1.0118
+              "prob": 0.1416,
+              "ev": 0.8458
             }
           ]
         }
@@ -498,7 +650,15 @@
           "home": "Inter Milan",
           "away": "Monza",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.1311,
+            "ev": 1.2338
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -523,7 +683,15 @@
           "home": "Frosinone",
           "away": "Juventus",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.1155,
+            "ev": 1.0724
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -548,7 +716,15 @@
           "home": "Bologna",
           "away": "Lazio",
           "book": "williamhill",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              1
+            ],
+            "prob": 0.2015,
+            "ev": 0.9801
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -569,36 +745,19 @@
           ]
         },
         {
-          "kickoff": "2026-08-23T18:45",
-          "home": "Atalanta BC",
-          "away": "Sassuolo",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                2,
-                0
-              ],
-              "prob": 0.0958,
-              "ev": 0.9672
-            },
-            {
-              "score": [
-                1,
-                0
-              ],
-              "prob": 0.094,
-              "ev": 0.8981
-            }
-          ]
-        },
-        {
           "kickoff": "2026-08-24T18:45",
           "home": "AS Roma",
           "away": "Fiorentina",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.104,
+            "ev": 0.9735
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -619,27 +778,35 @@
           ]
         },
         {
-          "kickoff": "2026-08-22T18:45",
-          "home": "Genoa",
-          "away": "Napoli",
+          "kickoff": "2026-08-23T18:45",
+          "home": "Atalanta BC",
+          "away": "Sassuolo",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              0
+            ],
+            "prob": 0.0958,
+            "ev": 0.9672
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
-                0,
-                1
+                2,
+                0
               ],
-              "prob": 0.1258,
-              "ev": 0.8628
+              "prob": 0.0958,
+              "ev": 0.9672
             },
             {
               "score": [
                 1,
-                1
+                0
               ],
-              "prob": 0.1246,
-              "ev": 0.6041
+              "prob": 0.094,
+              "ev": 0.8981
             }
           ]
         },
@@ -648,7 +815,15 @@
           "home": "Udinese",
           "away": "Como",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.098,
+            "ev": 0.8768
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
@@ -670,26 +845,67 @@
         },
         {
           "kickoff": "2026-08-22T18:45",
-          "home": "Parma",
-          "away": "Cagliari",
+          "home": "Genoa",
+          "away": "Napoli",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.1004,
+            "ev": 0.8766
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                0,
+                1
+              ],
+              "prob": 0.1258,
+              "ev": 0.8628
+            },
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.1246,
+              "ev": 0.6041
+            }
+          ]
+        },
+        {
+          "kickoff": "2026-08-23T18:45",
+          "home": "Torino",
+          "away": "AC Milan",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.091,
+            "ev": 0.8721
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.1396,
-              "ev": 0.6617
+              "prob": 0.109,
+              "ev": 0.5185
             },
             {
               "score": [
                 0,
-                0
+                1
               ],
-              "prob": 0.1126,
-              "ev": 0.5995
+              "prob": 0.1044,
+              "ev": 0.8361
             }
           ]
         },
@@ -698,7 +914,15 @@
           "home": "Venezia",
           "away": "Lecce",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0813,
+            "ev": 0.7261
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
@@ -719,27 +943,35 @@
           ]
         },
         {
-          "kickoff": "2026-08-23T18:45",
-          "home": "Torino",
-          "away": "AC Milan",
+          "kickoff": "2026-08-22T18:45",
+          "home": "Parma",
+          "away": "Cagliari",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              0
+            ],
+            "prob": 0.1103,
+            "ev": 0.6723
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.109,
-              "ev": 0.5185
+              "prob": 0.1396,
+              "ev": 0.6617
             },
             {
               "score": [
                 0,
-                1
+                0
               ],
-              "prob": 0.1044,
-              "ev": 0.8361
+              "prob": 0.1126,
+              "ev": 0.5995
             }
           ]
         }
@@ -750,36 +982,19 @@
       "sport": "soccer_france_ligue_one",
       "matches": [
         {
-          "kickoff": "2026-08-23T18:45",
-          "home": "Rennes",
-          "away": "Paris Saint Germain",
-          "book": "pinnacle",
-          "pick_index": 0,
-          "top2": [
-            {
-              "score": [
-                1,
-                2
-              ],
-              "prob": 0.0875,
-              "ev": 0.9509
-            },
-            {
-              "score": [
-                1,
-                1
-              ],
-              "prob": 0.0853,
-              "ev": 0.4189
-            }
-          ]
-        },
-        {
           "kickoff": "2026-08-22T15:15",
           "home": "RC Lens",
           "away": "Auxerre",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.097,
+            "ev": 0.9717
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -800,11 +1015,52 @@
           ]
         },
         {
+          "kickoff": "2026-08-23T18:45",
+          "home": "Rennes",
+          "away": "Paris Saint Germain",
+          "book": "pinnacle",
+          "pick": {
+            "score": [
+              1,
+              3
+            ],
+            "prob": 0.0746,
+            "ev": 0.9577
+          },
+          "is_value_pick": true,
+          "top2": [
+            {
+              "score": [
+                1,
+                2
+              ],
+              "prob": 0.0875,
+              "ev": 0.9509
+            },
+            {
+              "score": [
+                1,
+                1
+              ],
+              "prob": 0.0853,
+              "ev": 0.4189
+            }
+          ]
+        },
+        {
           "kickoff": "2026-08-23T13:00",
           "home": "Angers",
           "away": "Lille",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              0,
+              2
+            ],
+            "prob": 0.1007,
+            "ev": 0.9182
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
@@ -825,52 +1081,68 @@
           ]
         },
         {
-          "kickoff": "2026-08-22T18:45",
-          "home": "Le Mans FC",
-          "away": "Brest",
+          "kickoff": "2026-08-21T18:45",
+          "home": "Marseille",
+          "away": "Strasbourg",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0925,
+            "ev": 0.8769
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.1295,
-              "ev": 0.5937
+              "prob": 0.0997,
+              "ev": 0.4848
             },
             {
               "score": [
-                1,
-                0
+                2,
+                1
               ],
-              "prob": 0.0823,
-              "ev": 0.6115
+              "prob": 0.0925,
+              "ev": 0.8769
             }
           ]
         },
         {
-          "kickoff": "2026-08-22T18:45",
-          "home": "Toulouse",
-          "away": "Lyon",
+          "kickoff": "2026-08-23T15:15",
+          "home": "Le Havre",
+          "away": "AS Monaco",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0891,
+            "ev": 0.8234
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.1221,
-              "ev": 0.5767
+              "prob": 0.1016,
+              "ev": 0.4883
             },
             {
               "score": [
                 1,
                 2
               ],
-              "prob": 0.0812,
-              "ev": 0.6647
+              "prob": 0.0891,
+              "ev": 0.8234
             }
           ]
         },
@@ -879,7 +1151,15 @@
           "home": "Nice",
           "away": "Lorient",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0879,
+            "ev": 0.7515
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
@@ -904,7 +1184,15 @@
           "home": "Troyes",
           "away": "Paris FC",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0842,
+            "ev": 0.7068
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
@@ -925,52 +1213,68 @@
           ]
         },
         {
-          "kickoff": "2026-08-23T15:15",
-          "home": "Le Havre",
-          "away": "AS Monaco",
+          "kickoff": "2026-08-22T18:45",
+          "home": "Toulouse",
+          "away": "Lyon",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              1,
+              2
+            ],
+            "prob": 0.0812,
+            "ev": 0.6647
+          },
+          "is_value_pick": false,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.1016,
-              "ev": 0.4883
+              "prob": 0.1221,
+              "ev": 0.5767
             },
             {
               "score": [
                 1,
                 2
               ],
-              "prob": 0.0891,
-              "ev": 0.8234
+              "prob": 0.0812,
+              "ev": 0.6647
             }
           ]
         },
         {
-          "kickoff": "2026-08-21T18:45",
-          "home": "Marseille",
-          "away": "Strasbourg",
+          "kickoff": "2026-08-22T18:45",
+          "home": "Le Mans FC",
+          "away": "Brest",
           "book": "pinnacle",
-          "pick_index": 0,
+          "pick": {
+            "score": [
+              2,
+              1
+            ],
+            "prob": 0.0783,
+            "ev": 0.6493
+          },
+          "is_value_pick": true,
           "top2": [
             {
               "score": [
                 1,
                 1
               ],
-              "prob": 0.0997,
-              "ev": 0.4848
+              "prob": 0.1295,
+              "ev": 0.5937
             },
             {
               "score": [
-                2,
-                1
+                1,
+                0
               ],
-              "prob": 0.0925,
-              "ev": 0.8769
+              "prob": 0.0823,
+              "ev": 0.6115
             }
           ]
         }
