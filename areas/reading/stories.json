@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:00:50+00:00",
+  "generated_at": "2026-08-24T19:00:59+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -109,6 +109,30 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-08-17"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "john-chu-the-water-that-falls-on-you-from-nowhere",
+      "title": "The Water That Falls on You from Nowhere",
+      "author": "John Chu",
+      "year": 2013,
+      "fit": "A Hugo-winning speculative story with a clean what-if premise--water falls whenever someone lies--but the real hook is a clear, intimate family-and-relationship plot rather than abstract allegory.",
+      "length": "Short story, about 20-30 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "Hugo winner",
+        "clear narrative",
+        "family",
+        "relationship"
+      ],
+      "source_label": "Reactor Magazine text",
+      "source_url": "https://reactormag.com/the-water-that-falls-on-you-from-nowhere/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-08-24"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
