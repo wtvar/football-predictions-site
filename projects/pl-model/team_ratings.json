@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T07:15:22+00:00",
+  "generated_at_utc": "2026-08-25T16:47:20+00:00",
   "metric_policy": "Premier League ratings use true opponent-adjusted xG half-life-5 priors where available. Promoted teams without current PL OAW coverage use last Championship season goals for/against converted to Premier League scale with the historical promotion tax; once promoted teams have completed PL matches, ratings blend current PL OAW N/38 with the promoted adjustment (38-N)/38 until a full 38-match PL season is available.",
   "ratings": [
     {
@@ -9,7 +9,7 @@
       "attack": 2.064,
       "defence": 0.951,
       "overall": 1.112,
-      "sample_fixtures": 32,
+      "sample_fixtures": 34,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -19,7 +19,7 @@
       "attack": 2.141,
       "defence": 1.204,
       "overall": 0.938,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -29,7 +29,7 @@
       "attack": 1.958,
       "defence": 1.221,
       "overall": 0.738,
-      "sample_fixtures": 32,
+      "sample_fixtures": 34,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -39,7 +39,7 @@
       "attack": 1.747,
       "defence": 1.397,
       "overall": 0.35,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -49,7 +49,7 @@
       "attack": 1.691,
       "defence": 1.375,
       "overall": 0.316,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -59,7 +59,7 @@
       "attack": 1.511,
       "defence": 1.239,
       "overall": 0.272,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -69,7 +69,7 @@
       "attack": 1.331,
       "defence": 1.271,
       "overall": 0.06,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -79,7 +79,7 @@
       "attack": 1.644,
       "defence": 1.598,
       "overall": 0.046,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -89,7 +89,7 @@
       "attack": 1.603,
       "defence": 1.588,
       "overall": 0.016,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -99,7 +99,7 @@
       "attack": 1.544,
       "defence": 1.722,
       "overall": -0.177,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -109,7 +109,7 @@
       "attack": 1.517,
       "defence": 1.698,
       "overall": -0.181,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -119,7 +119,7 @@
       "attack": 1.272,
       "defence": 1.497,
       "overall": -0.225,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -129,7 +129,7 @@
       "attack": 1.336,
       "defence": 1.567,
       "overall": -0.232,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -139,7 +139,7 @@
       "attack": 1.487,
       "defence": 1.724,
       "overall": -0.237,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -149,7 +149,7 @@
       "attack": 1.221,
       "defence": 1.524,
       "overall": -0.303,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -159,7 +159,7 @@
       "attack": 1.569,
       "defence": 1.872,
       "overall": -0.303,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
@@ -169,11 +169,21 @@
       "attack": 1.437,
       "defence": 1.746,
       "overall": -0.309,
-      "sample_fixtures": 32,
+      "sample_fixtures": 33,
       "rating_source": "pl_oaw_xg_hl5"
     },
     {
       "rank": 18,
+      "team": "Ipswich",
+      "league": "premier_league",
+      "attack": 0.875,
+      "defence": 1.839,
+      "overall": -0.963,
+      "sample_fixtures": 33,
+      "rating_source": "pl_oaw_xg_hl5"
+    },
+    {
+      "rank": 19,
       "team": "Coventry",
       "league": "premier_league",
       "attack": null,
@@ -183,18 +193,8 @@
       "rating_source": null
     },
     {
-      "rank": 19,
-      "team": "Hull",
-      "league": "premier_league",
-      "attack": null,
-      "defence": null,
-      "overall": null,
-      "sample_fixtures": 0,
-      "rating_source": null
-    },
-    {
       "rank": 20,
-      "team": "Ipswich",
+      "team": "Hull",
       "league": "premier_league",
       "attack": null,
       "defence": null,
