@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:00:59+00:00",
+  "generated_at": "2026-08-31T19:00:51+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -133,6 +133,31 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-08-24"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "ted-chiang-the-merchant-and-the-alchemist-s-gate",
+      "title": "The Merchant and the Alchemist's Gate",
+      "author": "Ted Chiang",
+      "year": 2007,
+      "fit": "An award-winning, idea-driven time-travel story with a strong narrative hook: a merchant hears intertwined accounts of an alchemical gate that lets people confront the consequences of choices already made. It scratches the Ted Chiang itch without being abstract or fable-like.",
+      "length": "Novelette, about 45-60 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "time travel",
+        "Hugo winner",
+        "Nebula winner",
+        "idea-driven",
+        "clear narrative"
+      ],
+      "source_label": "Open Library borrowing page / collected in Exhalation",
+      "source_url": "https://openlibrary.org/books/OL8884551M/The_Merchant_and_the_Alchemist's_Gate",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-08-31"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
