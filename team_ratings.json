@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-04T07:15:56+00:00",
+  "generated_at_utc": "2026-09-05T07:15:33+00:00",
   "metric_policy": "Premier League ratings use true opponent-adjusted xG half-life-5 priors where available. Promoted teams without current PL OAW coverage use last Championship season goals for/against converted to Premier League scale with the historical promotion tax; once promoted teams have completed PL matches, ratings blend current PL OAW N/38 with the promoted adjustment (38-N)/38 until a full 38-match PL season is available.",
   "ratings": [
     {
