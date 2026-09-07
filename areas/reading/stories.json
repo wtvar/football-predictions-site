@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:00:51+00:00",
+  "generated_at": "2026-09-07T19:00:59+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -158,6 +158,29 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-08-31"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "neil-gaiman-a-study-in-emerald",
+      "title": "A Study in Emerald",
+      "author": "Neil Gaiman",
+      "year": null,
+      "fit": "A Hugo-winning speculative mystery with a strong narrative hook: Sherlock Holmes-style deduction crossed with Lovecraftian alternate history. It should fit Chris's taste for clever, idea-driven fiction while staying plot-forward and readable.",
+      "length": "Short story, about 35-45 minutes",
+      "tags": [
+        "previously recommended",
+        "speculative",
+        "mystery",
+        "Hugo winner",
+        "clear narrative",
+        "alternate history"
+      ],
+      "source_label": "Neil Gaiman official PDF",
+      "source_url": "https://www.neilgaiman.com/mediafiles/exclusive/shortstories/emerald.pdf",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-09-07"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
