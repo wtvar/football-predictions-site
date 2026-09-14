@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:00:59+00:00",
+  "generated_at": "2026-09-14T19:01:26+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -181,6 +181,31 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-09-07"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "hao-jingfang-translated-by-ken-liu-folding-beijing",
+      "title": "Folding Beijing",
+      "author": "Hao Jingfang (translated by Ken Liu)",
+      "year": null,
+      "fit": "A Hugo-winning speculative story with a concrete, cinematic premise--a city that physically folds to separate classes--and a worker's urgent, plot-forward journey through it. It should fit Chris's Ted Chiang taste for elegant thought experiments while staying clearer and more narrative-driven than abstract fable.",
+      "length": "Novelette, about 45-60 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "Hugo winner",
+        "translated fiction",
+        "clear narrative",
+        "class",
+        "idea-driven"
+      ],
+      "source_label": "Uncanny Magazine text",
+      "source_url": "https://www.uncannymagazine.com/article/folding-beijing-2/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-09-14"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
