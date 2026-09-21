@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:01:26+00:00",
+  "generated_at": "2026-09-21T19:01:28+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -206,6 +206,31 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-09-14"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "mary-robinette-kowal-the-lady-astronaut-of-mars",
+      "title": "The Lady Astronaut of Mars",
+      "author": "Mary Robinette Kowal",
+      "year": 2012,
+      "fit": "A Hugo-winning alternate-history SF story with a clean, emotionally grounded hook: an aging Mars astronaut gets one more chance at the stars while weighing love, duty, and mortality. It should fit Chris's taste for elegant speculative premises with a readable, character-driven plot.",
+      "length": "Novelette, about 35-45 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "Hugo winner",
+        "alternate history",
+        "spaceflight",
+        "clear narrative",
+        "character-driven"
+      ],
+      "source_label": "Reactor Magazine text",
+      "source_url": "https://reactormag.com/the-lady-astronaut-of-mars/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-09-21"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
