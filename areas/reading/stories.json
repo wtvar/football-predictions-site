@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:01:28+00:00",
+  "generated_at": "2026-09-28T19:00:30+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -231,6 +231,30 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-09-21"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "peter-watts-the-things",
+      "title": "The Things",
+      "author": "Peter Watts",
+      "year": null,
+      "fit": "A famous, Hugo-nominated SF/horror story with a terrific narrative hook: the events of The Thing retold from the alien's point of view. It should fit Chris's taste for clever, idea-driven speculative fiction while staying concrete, tense, and plot-forward.",
+      "length": "Short story, about 25-35 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "horror",
+        "Hugo nominee",
+        "clear narrative",
+        "idea-driven"
+      ],
+      "source_label": "Clarkesworld Magazine text",
+      "source_url": "https://clarkesworldmagazine.com/watts_01_10/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-09-28"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
