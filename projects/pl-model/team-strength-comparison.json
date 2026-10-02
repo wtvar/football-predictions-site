@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T07:15:43.325088+00:00",
+  "generated_at_utc": "2026-10-02T07:15:19.804298+00:00",
   "policy": "Comparison-only external team-strength/xG values. Not used in model features or training.",
   "source_registry": [
     {
@@ -36,7 +36,7 @@
       "oddalerts_home_xga": 0.69,
       "oddalerts_away_xga": 3.9000000000000004,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 1,
       "our_attack": 2.064,
       "our_defence": 0.951,
@@ -60,7 +60,7 @@
       "oddalerts_home_xga": 4.11,
       "oddalerts_away_xga": 1.42,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 2,
       "our_attack": 2.141,
       "our_defence": 1.204,
@@ -84,7 +84,7 @@
       "oddalerts_home_xga": 1.65,
       "oddalerts_away_xga": 3.5600000000000005,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 3,
       "our_attack": 1.958,
       "our_defence": 1.221,
@@ -108,7 +108,7 @@
       "oddalerts_home_xga": 3.2199999999999998,
       "oddalerts_away_xga": 2.92,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 4,
       "our_attack": 1.747,
       "our_defence": 1.397,
@@ -132,7 +132,7 @@
       "oddalerts_home_xga": 3.52,
       "oddalerts_away_xga": 5.34,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 5,
       "our_attack": 1.691,
       "our_defence": 1.375,
@@ -156,7 +156,7 @@
       "oddalerts_home_xga": 3.85,
       "oddalerts_away_xga": 4.859999999999999,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 6,
       "our_attack": 1.511,
       "our_defence": 1.239,
@@ -180,7 +180,7 @@
       "oddalerts_home_xga": 3.7600000000000002,
       "oddalerts_away_xga": 4.59,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 7,
       "our_attack": 1.331,
       "our_defence": 1.271,
@@ -204,7 +204,7 @@
       "oddalerts_home_xga": 3.18,
       "oddalerts_away_xga": 3.43,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 8,
       "our_attack": 1.644,
       "our_defence": 1.598,
@@ -228,7 +228,7 @@
       "oddalerts_home_xga": 6.74,
       "oddalerts_away_xga": 3.1799999999999997,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 10,
       "our_attack": 1.544,
       "our_defence": 1.722,
@@ -252,7 +252,7 @@
       "oddalerts_home_xga": 2.65,
       "oddalerts_away_xga": 5.91,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 11,
       "our_attack": 1.517,
       "our_defence": 1.698,
@@ -276,7 +276,7 @@
       "oddalerts_home_xga": 5.03,
       "oddalerts_away_xga": 2.7800000000000002,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 12,
       "our_attack": 1.272,
       "our_defence": 1.497,
@@ -300,7 +300,7 @@
       "oddalerts_home_xga": 3.84,
       "oddalerts_away_xga": 3.38,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 13,
       "our_attack": 1.336,
       "our_defence": 1.567,
@@ -324,7 +324,7 @@
       "oddalerts_home_xga": 4.5,
       "oddalerts_away_xga": 6.779999999999999,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 14,
       "our_attack": 1.487,
       "our_defence": 1.724,
@@ -348,7 +348,7 @@
       "oddalerts_home_xga": 2.61,
       "oddalerts_away_xga": 5.37,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 15,
       "our_attack": 1.221,
       "our_defence": 1.524,
@@ -372,7 +372,7 @@
       "oddalerts_home_xga": 3.88,
       "oddalerts_away_xga": 2.99,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 16,
       "our_attack": 1.569,
       "our_defence": 1.872,
@@ -396,7 +396,7 @@
       "oddalerts_home_xga": 2.4699999999999998,
       "oddalerts_away_xga": 2.93,
       "our_rating_found": true,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html",
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html",
       "our_rank": 17,
       "our_attack": 1.437,
       "our_defence": 1.746,
@@ -420,7 +420,7 @@
       "oddalerts_home_xga": 3.83,
       "oddalerts_away_xga": 3.14,
       "our_rating_found": false,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html"
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html"
     },
     {
       "team": "Hull City",
@@ -437,7 +437,7 @@
       "oddalerts_home_xga": 3.5,
       "oddalerts_away_xga": 3.6899999999999995,
       "our_rating_found": false,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html"
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html"
     },
     {
       "team": "Ipswich Town",
@@ -454,7 +454,7 @@
       "oddalerts_home_xga": 1.62,
       "oddalerts_away_xga": 6.93,
       "our_rating_found": false,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html"
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html"
     },
     {
       "team": "Coventry City",
@@ -471,7 +471,7 @@
       "oddalerts_home_xga": 3.08,
       "oddalerts_away_xga": 5.390000000000001,
       "our_rating_found": false,
-      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261001T071543Z_9c59cdba830848bf.html"
+      "raw_cache_path": "/root/football-data-cache/oddalerts/xg-premier-league/20261002T071519Z_1fa3aba846730115.html"
     }
   ]
 }
