@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:00:30+00:00",
+  "generated_at": "2026-10-05T19:00:53+00:00",
   "stories": [
     {
       "id": "jorge-luis-borges-library-of-babel",
@@ -255,6 +255,30 @@
       "recommendation_status": "previously_recommended",
       "recommended_dates": [
         "2026-09-28"
+      ],
+      "recommendation_note": "Added by weekly short-story recommendation workflow."
+    },
+    {
+      "id": "terry-bisson-they-re-made-out-of-meat",
+      "title": "They're Made Out of Meat",
+      "author": "Terry Bisson",
+      "year": 1991,
+      "fit": "A famous, compact speculative story with an irresistible hook: first contact filtered through aliens trying to process the horrifying idea that humans are thinking meat. It should fit Chris's taste for clever SF thought experiments while staying brisk, concrete, and funny rather than abstract.",
+      "length": "Short story, about 10-15 minutes",
+      "tags": [
+        "previously recommended",
+        "science fiction",
+        "speculative",
+        "first contact",
+        "humorous",
+        "clear narrative",
+        "idea-driven"
+      ],
+      "source_label": "Terry Bisson official text",
+      "source_url": "https://terrybisson.com/theyre-made-out-of-meat-2/",
+      "recommendation_status": "previously_recommended",
+      "recommended_dates": [
+        "2026-10-05"
       ],
       "recommendation_note": "Added by weekly short-story recommendation workflow."
     },
